@@ -1,0 +1,1385 @@
+n1,n2,n3,hierarquia_1,hierarquia_2,hierarquia_3,hierarquia_4,flag_fraude,tipo_de_tag
+intent,Failure,wb-fail,Assunto não identificado,Assunto não identificado,Assunto não identificado,Falha no willbert,Sim,Problema
+intent,indeterminavel,wb-ind,Assunto não identificado,Assunto não identificado,Assunto não identificado,Falha no willbert,Sim,Problema
+intent,No match de intent,wb-intnm,Assunto não identificado,Assunto não identificado,Assunto não identificado,Falha no willbert,Sim,Problema
+intent,No match,wb-nm,Assunto não identificado,Assunto não identificado,Assunto não identificado,Falha no willbert,Sim,Problema
+,,n3 - alteracao_e-mail,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+,,n3 - alteracao_telefone,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+,,n3 - alterar_endereco,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+,,n3 - atualizacao_cadastral,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+,,n3 - nome_incompleto,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+w1 - solicitacao,w2 - cadastro,w3 - alterar endereco cadastro,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+w1 - duvida,w2 - cadastro,w3 - como alterar renda,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Dúvida
+w1 - solicitacao,w2 - cadastro,w3 - alterar cadastro outros,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Dúvida
+w1 - solicitacao,w2 - cobranca,w3 - alteracao endereco cliente em atraso,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+w1 - duvida,w2 - proposta,w3 - duvidas cadastro web,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Dúvida
+w1 - solicitacao,w2 - cobranca,w3 - alteracao cadastral cliente em atraso outros,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+w1 - problema,w2 - cadastro,w3 - erro alterar cadastro no app,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Reclamação
+w1 - solicitacao,w2 - cadastro,w3 - alterar email cadastro,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Dúvida
+w1 - solicitacao,w2 - cadastro,w3 - alterar telefone cadastro,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+w1 - problema,w2 - proposta,w3 - erro inserir data de nascimento,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Problema
+w1 - solicitacao,w2 - cadastro,w3 - alterar nome cadastro,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Dúvida
+w1 - duvida,w2 - institucional,w3 - cadastro positivo,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Dúvida
+w1 - solicitacao,w2 - atendimento,w3 - declaracao titularidade,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+w1 - problema,w2 - atendimento,w3 - email nao cadastrado,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+w1 - solicitacao,w2 - atendimento,w3 - email sem informacao,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+w1 - solicitacao,w2 - cadastro,w3 - alterar telefone,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+w1 - solicitacao,w2 - cadastro,w3 - alterar email,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+w1 - solicitacao,w2 - cobranca,w3 - alteracao telefone cliente em atraso,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+,,n3 - declaracao titularidade,Cartão,Aprovação,Aprovação,Alteração de Cadastro,Não,Solicitação
+w1 - solicitacao,w2 - proposta,w3 - alterar telefone proposta,Cartão,Aquisição,Aquisição,Alteração de Cadastro na Proposta,Não,Solicitação
+w1 - solicitacao,w2 - proposta,w3 - alterar email proposta,Cartão,Aquisição,Aquisição,Alteração de Cadastro na Proposta,Não,Dúvida
+,,n3 - confirmar_endereco,Cartão,Ativação,Ativação,Alteração de endereço,Não,Solicitação
+w1 - solicitacao,w2 - logistica,w3 - alterar endereco envio,Cartão,Ativação,Ativação,Alteração de endereço,Não,Problema
+bot,,b3 - alterar endereco envio,Cartão,Ativação,Ativação,Alteração de endereço,Não,Problema
+intent,alteracoes - endereco,wb-acle,Cartão,Ativação,Ativação,Alteração de endereço,Não,Solicitação
+intent,alteracoes - email,wb-ae,Cartão,Ativação,Ativação,Alteração de endereço,Não,Solicitação
+intent,alteracoes - multiplas,wb-am,Cartão,Ativação,Ativação,Alteração de endereço,Não,Solicitação
+intent,alteracoes - telefone,wb-at,Cartão,Ativação,Ativação,Alteração de endereço,Não,Problema
+,,n3 - alterar_senha_app,Cartão,Conta,Conta,Alteração de senha do app,Não,Solicitação
+,,n3 - senha_personalizada,Cartão,Conta,Conta,Alteração de senha do app,Não,Dúvida
+w1 - problema,w2 - fraude,w3 - nao reconhece alteracao de senha,Cartão,Conta,Conta,Alteração de senha do app,Sim,Problema
+w1 - solicitacao,w2 - cadastro,w3 - alterar senha app,Cartão,Conta,Conta,Alteração de senha do app,Não,Dúvida
+,,n3 - solicitar_senha_cartao,Cartão,Compra,Compra,Alteração de senha do cartão,Não,Solicitação
+,,n3 - senha_cartao_debito,Cartão,Compra,Compra,Alteração de senha do cartão,Não,Solicitação
+w1 - duvida,w2 - cartao de credito fisico,w3 - alterar senha cartao,Cartão,Compra,Compra,Alteração de senha do cartão,Não,Dúvida
+bot,bot will - desbloqueio de cartão,b3 - alterar senha cartao,Cartão,Compra,Compra,Alteração de senha do cartão,Não,Dúvida
+intent,alteracoes - senha,wb-as,Cartão,Compra,Compra,Alteração de senha do cartão,Não,Dúvida
+,,n3 - duvidas_após_antecipar_fatura,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Dúvida
+,,n3 - como_antecipar_fatura,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como antecipar pagamento de fatura,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - duvidas apos antecipar fatura,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Dúvida
+w1 - problema,w2 - fatura,w3 - erro antecipar fatura no app,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Problema
+w1 - duvida,w2 - pagamento de fatura,w3 - gerar boleto antecipacao de fatura,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Dúvida
+w1 - problema,w2 - pagamento de fatura,w3 - erro pagamento de fatura entrou como antecipacao,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Problema
+w1 - problema,w2 - pagamento de fatura,w3 - erro antecipacao de fatura via boleto,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Problema
+w1 - problema,w2 - pagamento de fatura,w3 - erro ao realizar antecipacao via saldo conta,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Problema
+w1 - duvida,w2 - pagamento de fatura,w3 - como finalizar antecipação via saldo conta,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Dúvida
+w1 - problema,w2 - pagamento de fatura,w3 - erro saldo disponivel para antecipacao via saldo,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Problema
+w1 - duvida,w2 - pagamento de fatura,w3 - como finalizar antecipacao via saldo conta,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Dúvida
+w1 - solicitacao,w2 - migracao pag will,w3 - cliente will quer antecipar fatura do pag,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Solicitação
+bot,bot will - fatura aberta (3),b3 - como antecipar pagamento de fatura,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como antecipar fatura,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Dúvida
+,,w3 - duvida - antecipacao fatura,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Dúvida
+,,w3 - duvida - antecipacao parcela,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Dúvida
+,,w3 - problema - antecipacao parcela,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Dúvida
+intent,antecipacao de fatura,wb-af,Cartão,Pagamento,Pagamento,Antecipação de Fatura,Não,Dúvida
+,,n3 - solicitacao_antecipacao_parcelamento_de_fatura,Crédito e Cobrança,Acordos,Acordos,Antecipação de Parcelas,Não,Solicitação
+,,n3 - como_antecipar_parcela,Crédito e Cobrança,Acordos,Acordos,Antecipação de Parcelas,Não,Dúvida
+,,n3 - como_antecipar_parcelamento,Crédito e Cobrança,Acordos,Acordos,Antecipação de Parcelas,Não,Dúvida
+,,n3 - duvidas_após_antecipar_parcela,Crédito e Cobrança,Acordos,Acordos,Antecipação de Parcelas,Não,Dúvida
+,,n3 - antecipacao_de_parcela_indevida,Crédito e Cobrança,Acordos,Acordos,Antecipação de Parcelas,Não,Reclamação
+,,n3 - como refazer o parcelamento,Crédito e Cobrança,Acordos,Acordos,Antecipação de Parcelas,Não,Dúvida
+w1 - solicitacao,w2 - pagamento de fatura,w3 - antecipacao pagamento compra parcelada na fatura,Crédito e Cobrança,Acordos,Acordos,Antecipação de Parcelas,Não,Dúvida
+w1- duvida,w2 - pagamento de fatura,w3 - como antecipar pagamento parcelamento,Crédito e Cobrança,Acordos,Acordos,Antecipação de Parcelas,Não,Dúvida
+w1 - solicitacao,w2 - pagamento de fatura,w3 - antecipar parcelas do parcelamento,Crédito e Cobrança,Acordos,Acordos,Antecipação de Parcelas,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - como antecipar parcela de parcelamento,Crédito e Cobrança,Acordos,Acordos,Antecipação de Parcelas,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - como antecipar parcelamento,Crédito e Cobrança,Acordos,Acordos,Antecipação de Parcelas,Não,Dúvida
+w1 - duvida,w2 - cartao de credito virtual,w3 - duvida applepay,Cartão,Ativação,Ativação,Apple pay,Não,Dúvida
+w1 - duvida,w2 - cartao de credito fisico,w3 - applepay,Cartão,Ativação,Ativação,Apple pay,Não,Dúvida
+w1 - solicitacao,w2 - conta pura,w3 - solicitacao credito conta pura,Conta,Acquisition,Acquisition,Aquisição de Crédito,Não,Dúvida
+,,w3 - sem tag,Assunto não identificado,Assunto não identificado,Assunto não identificado,Assunto não identificado,Não,Dúvida
+w1 - reclamacao,w2 - atendimento,w3 - chat sem retorno,Assunto não identificado,Assunto não identificado,Assunto não identificado,Assunto não identificado,Não,Dúvida
+,,w3 - 2 via | aguarda motivo,Atendimento,Atendimento,Atendimento,Assunto não identificado,Não,Solicitação
+bot,bot will - mapa,b3 - bot boas vindas,Assunto não identificado,Assunto não identificado,Assunto não identificado,Assunto não identificado,Não,Dúvida
+bot,,q3 - abandono não identificado,Assunto não identificado,Assunto não identificado,Assunto não identificado,Assunto não identificado,Não,Dúvida
+,,n3 - sem interacao cliente,Assunto não identificado,Assunto não identificado,Assunto não identificado,Assunto não identificado,Não,Dúvida
+,,w3 - sem interacao cliente,Assunto não identificado,Assunto não identificado,Assunto não identificado,Assunto não identificado,Não,Dúvida
+,,n3 - atendimento_para_terceiros,Atendimento,Atendimento,Atendimento,Atendimento de terceiros,Não,Dúvida
+,,n3 - terceiros solicitando alteração de dados cadastrais,Atendimento,Atendimento,Atendimento,Atendimento de terceiros,Não,Solicitação
+w1 - solicitacao,w2 - atendimento,w3 - atendimento outra pessoa,Atendimento,Atendimento,Atendimento,Atendimento de terceiros,Não,Dúvida
+,,w3 - chat outra pessoa,Atendimento,Atendimento,Atendimento,Atendimento de terceiros,Não,Dúvida
+,,n3 - atraso_entrega_cartao,Cartão,Ativação,Ativação,Atraso de entrega,Não,Reclamação
+w1 - solicitacao,w2 - logistica,w3 - entrega cartao atrasada,Cartão,Ativação,Ativação,Atraso de entrega,Não,Reclamação
+w1 - solicitacao,w2 - logistica,w3 - producao cartao atrasada,Cartão,Ativação,Ativação,Atraso de entrega,Não,Problema
+,,n3 - ocorrência_sequoia,Cartão,Ativação,Ativação,Atraso de entrega,Não,Reclamação
+,,n3 - pi_correios,Cartão,Ativação,Ativação,Atraso de entrega,Não,Reclamação
+,,n3 - nao_recebimento_do_rastreio,Cartão,Ativação,Ativação,Atraso de entrega,Não,Reclamação
+,,n3 - prazo_de_envio_boleto_kitei,Cartão,Ativação,Ativação,Atraso de entrega,Não,Reclamação
+,,n3 - greve_correios,Cartão,Ativação,Ativação,Atraso de entrega,Não,Reclamação
+bot,,b3 - entrega cartao atrasada,Cartão,Ativação,Ativação,Atraso de entrega,Não,Reclamação
+,,n3 - aumento_negado,Crédito e Cobrança,Limite de crédito,Limite de crédito,Aumento do limite de crédito,Não,Solicitação
+,,n3 - limite_emergencial,Crédito e Cobrança,Limite de crédito,Limite de crédito,Aumento do limite de crédito,Não,Dúvida
+,,n3 - solicitacao_de_aumento,Crédito e Cobrança,Limite de crédito,Limite de crédito,Aumento do limite de crédito,Não,Solicitação
+,,n3 - limite entre cartoes pag will,Crédito e Cobrança,Limite de crédito,Limite de crédito,Aumento do limite de crédito,Não,Dúvida
+w1 - solicitacao,w2 - limite de credito,w3 - solicitacao de aumento limite,Crédito e Cobrança,Limite de crédito,Limite de crédito,Aumento do limite de crédito,Não,Dúvida
+,,w3 - duvida campanha belvo,Crédito e Cobrança,Limite de crédito,Limite de crédito,Aumento do limite de crédito,Não,Dúvida
+w1 - duvida,w2 - limite de credito,w3 - duvida limite emergencial,Crédito e Cobrança,Limite de crédito,Limite de crédito,Aumento do limite de crédito,Não,Dúvida
+w1 - duvida,w2 - cobranca,w3 - reestabelecimento de limite,Crédito e Cobrança,Limite de crédito,Limite de crédito,Aumento do limite de crédito,Não,Dúvida
+w1 - duvida,w2 - limite de credito,w3 - duvida limite extra,Crédito e Cobrança,Limite de crédito,Limite de crédito,Aumento do limite de crédito,Não,Dúvida
+w1 - solicitacao,w2 - limite de credito,w3 - ajuste de limite,Crédito e Cobrança,Limite de crédito,Limite de crédito,Aumento do limite de crédito,Não,Dúvida
+bot,bot will - limite de crédito (3),b3 - duvida aumento limite,Crédito e Cobrança,Limite de crédito,Limite de crédito,Aumento do limite de crédito,Não,Dúvida
+bot,bot will - limite de crédito (2),b3 - solicitacao de aumento limite,Crédito e Cobrança,Limite de crédito,Limite de crédito,Aumento do limite de crédito,Não,Dúvida
+,,w3 - duvida limite back,Crédito e Cobrança,Limite de crédito,Limite de crédito,Aumento do limite de crédito,Não,Dúvida
+intent,aumento de limite,wb-al,Crédito e Cobrança,Limite de crédito,Limite de crédito,Aumento do limite de crédito,Não,Dúvida
+,,n3 - aviso_viagem,Cartão,Compra,Compra,Aviso viagem,Não,Dúvida
+w1 - solicitacao,w2 - cartao de credito fisico,w3 - aviso viagem,Cartão,Compra,Compra,Aviso viagem,Não,Dúvida
+,,n3 - como_bloquear_o_cartao,Cartão,Compra,Compra,Bloqueio de conta,Não,Dúvida
+w1 - duvida,w2 - cartao de credito virtual,w3 - como bloquear cartao fisico,Cartão,Compra,Compra,Bloqueio de conta,Não,Dúvida
+bot,bot will - cobrança (2),b3 - duvida cartao fisico,Cartão,Compra,Compra,Bloqueio de conta,Não,Dúvida
+,,n3 - bloqueio_erro_de_senha - entregue,Cartão,Compra,Compra,Bloqueio de senha,Sim,Problema
+,,n3 - senha_invalida,Cartão,Compra,Compra,Bloqueio de senha,Não,Reclamação
+,,n3 - bloqueio_erro_de_senha - nao_entregue,Cartão,Compra,Compra,Bloqueio de senha,Sim,Problema
+,,n3 - nao_recebe_senha_cartao,Cartão,Compra,Compra,Bloqueio de senha,Não,Reclamação
+w1 - solicitacao,w2 - cartao de credito fisico,w3 - bloqueio erro de senha maquininha,Cartão,Compra,Compra,Bloqueio de senha,Sim,Dúvida
+w1 - solicitacao,w2 - cartao de credito fisico,w3 - bloqueio erro de senha app,Cartão,Compra,Compra,Bloqueio de senha,Sim,Dúvida
+w1 - problema,w2 - acesso,w3 - erro acessar app nova senha,Cartão,Compra,Compra,Bloqueio de senha,Não,Problema
+,,n3 - _nao_recebe_senha_cartao,Cartão,Compra,Compra,Bloqueio de senha,Sim,Dúvida
+bot,,b3 - bloqueio erro de senha maquininha,Cartão,Compra,Compra,Bloqueio de senha,Sim,Dúvida
+,,n3 - gerar_boleto_depósito,Conta,Banking Transfers,Banking Transfers,Boleto de Depósito,Não,Dúvida
+,,n3 - erro_gerar_boleto_depósito,Conta,Banking Transfers,Banking Transfers,Boleto de Depósito,Não,Reclamação
+w1 - duvida,w2 - deposito,w3 - como gerar boleto no app,Conta,Banking Transfers,Banking Transfers,Boleto de Depósito,Não,Dúvida
+w1 - duvida,w2 - deposito,w3 - prazo para compensacao do deposito,Conta,Banking Transfers,Banking Transfers,Boleto de Depósito,Não,Dúvida
+w1 - problema,w2 - deposito,w3 - erro app gerar boleto deposito,Conta,Banking Transfers,Banking Transfers,Boleto de Depósito,Não,Problema
+w1 - duvida,w2 - cartao debito,w3 - como adicionar dinheiro na conta,Conta,Banking Transfers,Banking Transfers,Boleto de Depósito,Não,Dúvida
+w1 - problema,w2- deposito,w3 - erro de compensacao boleto deposito,Conta,Banking Transfers,Banking Transfers,Boleto de Depósito,Não,Problema
+,,w3 - resultado analise de deposito,Conta,Banking Transfers,Banking Transfers,Boleto de Depósito,Não,Solicitação
+bot,bot will - conta pura (3),b3 - como colocar dinheiro na conta digital,Conta,Banking Transfers,Banking Transfers,Boleto de Depósito,Não,Dúvida
+bot,bot will - fatura fechada (3),b3 - como gerar boleto no app,Conta,Banking Transfers,Banking Transfers,Boleto de Depósito,Não,Dúvida
+bot,,b3 - como fazer deposito,Conta,Banking Transfers,Banking Transfers,Boleto de Depósito,Não,Dúvida
+intent,saldo e deposito,wb-sde,Conta,Banking Transfers,Banking Transfers,Boleto de Depósito,Não,Dúvida
+,,n3 - canais_de_atendimento,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+,,n3 - compliance,Atendimento,Atendimento,Atendimento,Canais de atendimento,Sim,Problema
+,,n3 - duvida sobre atendimento whatsapp,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+,,n3 - falta_de_cordialidade,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Reclamação
+,,n3 - sazonalidade,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+w1 - duvida,w2 - atendimento,w3 - quais canais de atendimento,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+w1 - problema,w2 - fraude,w3 - compliance,Atendimento,Atendimento,Atendimento,Canais de atendimento,Sim,Problema
+w1 - duvida,w2 - atendimento,w3 - como acessar chat,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+w1 - duvida,w2 - institucional,w3 - duvida sobre atendimento whatsapp,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+w1 - duvida,w2 - institucional,w3 - quero trabalhar no will,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+,,w3 -duvida sobre atendimento do whatsapp,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+w1 - duvida,w2 - atendimento,w3 - canais de atendimento,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+w1 - duvida,w2 - atendimento,w3 - interacao positiva,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+w1 - duvida,w2 - atendimento,w3 - interacao negativa,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+w1 - duvida,w2 - institucional,w3 - quero ser um parceiro,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+,,w3 - interacao negativa rede social,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+w1 - duvida,w2 - atendimento,w3 - interacao positiva rede social,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+,,n3 - duvidas_comunicados,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+,,n3 - cancelamento por compliance,Atendimento,Atendimento,Atendimento,Canais de atendimento,Sim,Problema
+,,w3 - duvida debito automatico,Atendimento,Atendimento,Atendimento,Canais de atendimento,Sim,Dúvida
+,,w3 - programa de pontos,Atendimento,Atendimento,Atendimento,Canais de atendimento,Sim,Dúvida
+,,w3 - programa de pontos,Atendimento,Atendimento,Atendimento,Canais de atendimento,Sim,Dúvida
+intent,canais de atendimento,wb-ca,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+intent,falar com agente,wb-fca,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+intent,outros - fila geral,wb-ofg,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Dúvida
+w1 - solicitacao,w2 - cartao debito,w3 - cancelar meu cartao de debito,Conta,Acquisition,Acquisition,Cancelamento de cartão de débito,Não,Dúvida
+,,n3 - cancelamento_compra,Cartão,Compra,Compra,Cancelamento de compra no crédito,Sim,Problema
+,,n3 - estorno apos conciliacao,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+,,n3 - nao entendi estorno integral,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+,,n3 - estorno antes da conciliacao,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Reclamação
+,,n3 - cancelamento_compra,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+,,n3 - estorno_manual,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Problema
+,,n3 - estorno_compra_manual,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Solicitação
+w1 - reclamacao,w2 - fraude,w3 - cancelamento com o estabelecimento,Cartão,Compra,Compra,Cancelamento de compra no crédito,Sim,Reclamação
+w1 - solicitacao,w2 - fatura,w3 - cancelamento compra online,Cartão,Compra,Compra,Cancelamento de compra no crédito,Sim,Dúvida
+w1 - duvida,w2 - fatura,w3 - duvidas sobre estorno apos cancelamento de compra,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - quando receberei estorno compra cancelada,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - duvida recebimento estorno compra cancelada,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - nao entendi estorno integral,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+w1 - problema,w2 - fatura,w3 - reversao de compra,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+w1 - duvida,w2 - cartao de credito virtual,w3 - compra cancelada conciliacao,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+w1 - problema,w2 - fatura,w3 - problema antecipacao de compra indevida,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Problema
+w1 - solicitacao,w2 - cartao de credito fisico,w3 - solicitacao de cancelamento compra presencial,Cartão,Compra,Compra,Cancelamento de compra no crédito,Sim,Dúvida
+w1 - solicitacao,w2 - backoffice,w3 - estorno manual outros,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Problema
+w1 - solicitacao,w2 - backoffice,w3 - cancelamento compra sem chargeback,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Problema
+w1 - solicitacao,w2 - backoffice,w3 - cancelamento compra com chargeback,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Problema
+w1 - solicitacao,w2 - fatura,w3 - estorno cancelada apos 24h,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Reclamação
+w1 - duvida,w2 - cartao de credito virtual,w3 - cancelamento compra,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+bot,bot will - fraude (1),b3 - cancelamento com o estabelecimento,Cartão,Compra,Compra,Cancelamento de compra no crédito,Sim,Dúvida
+bot,bot will - fraude (1),b3 - duvida recebimento estorno compra cancelada,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+bot,bot will - fraude (1),b3 - quando receberei estorno compra cancelada,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+,,n3 - estorno_cancelada_após_24h,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+,,n3 - estorno_cancelada_dentro_de_24h,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+,,w3 - duvida - estorno,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+,,w3 - duvida - reversao de compra,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+,,w3 - duvida - cancelamento de compra online,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+,,w3 - duvida - cancelamento de compra presencial,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+intent,cancelamento e estorno de compra,wb-cec,Cartão,Compra,Compra,Cancelamento de compra no crédito,Não,Dúvida
+,,n3 - cancelamento_limite_insuficiente,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Reclamação
+,,n3 - cancelamento_contencao_de_gastos,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Reclamação
+,,n3 - cancelamento por desuso/desinteresse,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Dúvida
+,,n3 - cancelamento_por_fraude,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+,,n3 - concorrente,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Reclamação
+,,n3 - cancelamento_sem_motivo,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Reclamação
+,,n3 - cancelamento_por_erros_operacionais,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Reclamação
+,,n3 - cancelamento_cartao_nao_entregue,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Reclamação
+,,n3 - cancelamento_falecimento_titular,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Solicitação
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar limite baixo,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar outro motivo,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - cliente quer cancelar mas ainda tem saldo conta e faturas futuras,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Reclamação
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar por desinteresse,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar nao uso cartao,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar meu cartao nao chegou,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar conter gastos,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar insatisfacao com o produto,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar prefiro concorrencia,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar fui fraudado,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar insatisfacao com o atendimento,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar falecimento titular,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar por falta de funcionalidades,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar nao concordo com encargos do will,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - quero confirmar conta cancelada,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar will nao tem emprestimo,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - backoffice,w3 - devolucao de credito conta cancelada,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - acesso,w3 - quero cancelar minha conta,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Reclamação
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar nao concordo com engarcos do will,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Reclamação
+w1 - solicitacao,w2 - atendimento,w3 - declaracao cancelamento cartao,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Solicitação
+w1 - solicitacao,w2 - cancelamento,w3 - cliente cancelado,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Solicitação
+w1 - solicitacao,w2 - cancelamento,w3 - cliente retido,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Solicitação
+w1 - cancelamento,w2 - cancelar outro motivo,w3 - cliente cancelado,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Solicitação
+w1 - cancelamento,w2 - cancelar will nao tem pix,w3 - cliente cancelado,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Reclamação
+w1 - duvida,w2 - novas funcionalidades,w3 - investimento,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Dúvida
+w1 - cancelamento,w2 - cancelar  will nao tem emprestimo,w3 - cliente cancelado,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Reclamação
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar por motivos pessoais,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Problema
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar will nao tem pix,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Reclamação
+w1 - solicitacao,w2 - cancelamento,w3 - 2 via cartao solicitada por retencao,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Solicitação
+,,n3 - cancelamento por desinteresse,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Reclamação
+,,n3 - declaracao cancelamento cartao,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Solicitação
+intent,cancelamento de cartao ou conta,wb-ccc,Cartão,Aprovação,Aprovação,Cancelamento de conta,Não,Reclamação
+w1 - solicitacao,w2 - conta pura,w3 - quero cancelar conta pura nao tem credito,Conta,Banking Account,Banking Account,Cancelamento de conta will,Não,Problema
+,,n3 - cartao_adicional,Cartão,Compra,Compra,Cartão adicional,Não,Solicitação
+w1 - duvida,w2 - cartao de credito fisico,w3 - duvidas cartao adicional,Cartão,Compra,Compra,Cartão adicional,Não,Dúvida
+w1 - solicitacao,w2 - cartao de credito fisico,w3 - solicitacao cartao adicional,Cartão,Compra,Compra,Cartão adicional,Não,Solicitação
+w1 - duvida,w2 - cartao de credito fisico,w3 - cartao adicional,Cartão,Compra,Compra,Cartão adicional,Não,Solicitação
+intent,cartao adicional,wb-cad,Cartão,Compra,Compra,Cartão adicional,Não,Dúvida
+,,n3 - cartao_black,Cartão,Compra,Compra,Cartão black,Não,Dúvida
+w1 - duvida,w2 - cartao de credito fisico,w3 - duvidas cartao black,Cartão,Compra,Compra,Cartão black,Não,Dúvida
+w1 - duvida,w2 - cartao de credito fisico,w3 - cartao black,Cartão,Compra,Compra,Cartão black,Não,Dúvida
+intent,cartao black,wb-cb,Cartão,Compra,Compra,Cartão black,Não,Dúvida
+,,n3 - cartao_virtual,Cartão,Compra,Compra,Cartão virtual,Não,Dúvida
+,,n3 - bloqueio_cartao_virtual,Cartão,Compra,Compra,Cartão virtual,Não,Dúvida
+w1 - duvida,w2 - cartao de credito virtual,w3 - como fazer compra online com o cartao virtual,Cartão,Compra,Compra,Cartão virtual,Não,Dúvida
+w1 - duvida,w2 - cartao de credito virtual,w3 - como criar cartao virtual,Cartão,Compra,Compra,Cartão virtual,Não,Dúvida
+w1 - duvida,w2 - cartao de credito virtual,w3 - como visualizar dados do cartao virtual,Cartão,Compra,Compra,Cartão virtual,Não,Dúvida
+w1 - duvida,w2 - cartao de credito virtual,w3 - como fazer compra presencial com o cartao virtual,Cartão,Compra,Compra,Cartão virtual,Não,Dúvida
+w1 - problema,w2 - cartao de credito virtual,w3 - erro visualizar dados cartao virtual,Cartão,Compra,Compra,Cartão virtual,Não,Reclamação
+w1 - solicitacao,w2 - cartao de credito virtual,w3 - bloqueio ou desbloqueio temporario cartao virtual,Cartão,Compra,Compra,Cartão virtual,Não,Dúvida
+w1 - problema,w2 - cartao de credito virtual,w3 - erro cvc cartao virtual,Cartão,Compra,Compra,Cartão virtual,Não,Problema
+w1 - duvida,w2 - cartao de credito virtual,w3 - como bloquear cartao virtual,Cartão,Compra,Compra,Cartão virtual,Não,Dúvida
+w1 - problema,w2 - cartao de credito virtual,w3 - erro gerar novo cartao virtual,Cartão,Compra,Compra,Cartão virtual,Não,Problema
+,,w3 - resultado analise de cartao de credito virtual,Cartão,Compra,Compra,Cartão virtual,Não,Solicitação
+bot,bot will - fraude (1),b3 - como criar cartao virtual,Cartão,Compra,Compra,Cartão virtual,Não,Dúvida
+bot,bot will - cartão virtual,b3 - como visualizar dados do cartao virtual,Cartão,Compra,Compra,Cartão virtual,Não,Dúvida
+bot,,b3 - duvida cartao virtual,Cartão,Compra,Compra,Cartão virtual,Não,Dúvida
+bot,,q3 - cartão virtual,Cartão,Compra,Compra,Cartão virtual,Não,Dúvida
+intent,cartao virtual,wb-cv,Cartão,Compra,Compra,Cartão virtual,Não,Dúvida
+intent,habilitar ou desabilitar compra online,wb-hdco,Cartão,Compra,Compra,Cartão virtual,Não,Dúvida
+,,n3 - nao recebi cashbak loja will,Marketplace,Marketplace,Marketplace,Reclamação pagamento cashback,Não,Problema
+,,n3 - erro cupom loja will,Marketplace,Marketplace,Marketplace,Cupom,Não,Reclamação
+,,w3 - nao recebi cashbak loja will,Marketplace,Marketplace,Marketplace,Reclamação pagamento cashback,Não,Reclamação
+w1 - reclamacao,w2 - cashback,w3 - nao recebi cashback loja will,Marketplace,Marketplace,Marketplace,Reclamação pagamento cashback,Não,Problema
+bot,bot will - cashback,b3 - cashback não caiu menos 60 dias,Marketplace,Marketplace,Marketplace,Reclamação pagamento cashback,Não,Dúvida
+bot,bot will - cashback,b3 - duvida cashback,Marketplace,Marketplace,Marketplace,Dúvidas regras do cashback,Não,Dúvida
+bot,bot will - cashback,b3 - duvida regras cashback,Marketplace,Marketplace,Marketplace,Dúvidas regras do cashback,Não,Dúvida
+,,n3 - chat_duplicado,Atendimento,Atendimento,Atendimento,Chat duplicado,Não,Problema
+w1 - solicitacao,w2 - cobranca,w3 - chat duplicado,Atendimento,Atendimento,Atendimento,Chat duplicado,Não,Problema
+,,n3 - chat_sem_retorno,Atendimento,Atendimento,Atendimento,Chat sem retorno,Não,Dúvida
+,,n3 - como fazer pix pelo app,Conta,Pix,Pix,Chaves PIX,Não,Dúvida
+,,n3 - erro app cadastrar chave pix,Conta,Pix,Pix,Chaves PIX,Não,Reclamação
+,,n3 - como excluir chave pix,Conta,Pix,Pix,Chaves PIX,Não,Dúvida
+,,n3 - portabilidade chave pix,Conta,Pix,Pix,Chaves PIX,Não,Dúvida
+,,n3 - reivindicar chave pix,Conta,Pix,Pix,Chaves PIX,Não,Solicitação
+w1 - problema,w2 - pix,w3 - erro app cadastrar chave pix,Conta,Pix,Pix,Chaves PIX,Não,Dúvida
+w1 - duvida,w2 - pix,w3 - como cadastrar ou alterar meu pix,Conta,Pix,Pix,Chaves PIX,Não,Dúvida
+bot,bot will - pix,b3 - como cadastrar chave pix,Conta,Pix,Pix,Chaves PIX,Não,Dúvida
+w1 - duvida,w2 - novas funcionalidades,w3 - quando tera pix,Conta,Pix,Pix,Chaves PIX,Não,Dúvida
+bot,bot will - pix erro,b3 - problema com chave pix,Conta,Pix,Pix,Chaves PIX,Não,Dúvida
+bot,,q3 - pix,Conta,Pix,Pix,Chaves PIX,Não,Solicitação
+intent,chaves pix,wb-cp,Conta,Pix,Pix,Chaves PIX,Não,Dúvida
+,,n3 - prazo_retirada_restricao_spc,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Dúvida
+,,n3 - assessoria_de_cobranca,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Solicitação
+,,n3 - situacao_spc,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Dúvida
+,,n3 - push_indevido_cobrança_fatura,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Dúvida
+,,n3 - recebimento_mensagem_negativacao,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Dúvida
+,,n3 - cadastro_positivo,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Reclamação
+,,n3 - notificacao_spc,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Dúvida
+,,n3 - ligacao_cobranca_menos_de_33,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Reclamação
+,,n3 - nova_proposta_de_acordo_atualizada,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Solicitação
+,,n3 - prazo_de_envio_boleto_assessoria,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Dúvida
+,,n3 - feirao negociacao,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Solicitação
+w1 - solicitacao,w2 - cobranca,w3 - feirao negociacao,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Solicitação
+w1 - reclamacao,w2 - fatura,w3 - notificacao cobranca fatura indevida,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Reclamação
+w1 - duvida,w2 - fatura,w3 - duvida cliente negativado,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Dúvida
+w1 - solicitacao,w2 - backoffice,w3 - negativacao indevida manual,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Reclamação
+w1 - duvida,w2 - cobranca,w3 - prazo para retirada de restricao spc,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - duvida apos acordo com assessoria de cobranca,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - duvida sobre quais sao nossas assessorias de cobranca,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Dúvida
+,,w3 - outras solicitacoes em cobranca cliente em dia,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Solicitação
+w1 - solicitacao,w2 - cobranca,w3 - outras solicitacoes em cobranca (cliente em dia),Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Solicitação
+w1 - duvida,w2 - fatura,w3 - cliente negativado,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Dúvida
+w1 - solicitacao,w2 - cobranca,w3 - alteracao email cliente em atraso,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Solicitação
+bot,bot will - cobrança (2),b3 - duvida cliente negativado,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Dúvida
+,,n3 - sem_proposta_l_retornar_contato_por_telefone,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Dúvida
+intent,negativacao,wb-neg,Crédito e Cobrança,Acordos,Acordos,Cobrança,Não,Dúvida
+,,n3 - prazo_de_compensacao_bancaria,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+,,n3 - compensacao_de_pagamento,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+,,n3 - bloqueio_por_atraso,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Problema
+,,n3 - prazo_compensacao,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+,,n3 - boleto_nao_registrado,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Problema
+,,n3 - negativacao_indevida,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Reclamação
+,,n3 - compensacao_bancaria_fora_do_prazo,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Reclamação
+,,n3 - atraso_indevido,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Reclamação
+,,n3 - bloqueio_compensacao,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Reclamação
+,,n3 - compensacao_bancaria_antecipacao,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+,,n3 - erro_pagamento_fatura_nao_consta_na_timeline,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Reclamação
+w1 - duvida,w2 - pagamento de fatura,w3 - duvida prazo para compensacao boleto fatura,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - duvida se o pagamento boleto fatura ja compensou,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+w1 - problema,w2 - pagamento de fatura,w3 - boleto pagamento fatura nao registrado,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+w1 - problema,w2 - pagamento de fatura,w3 - erro compensacao pagamento via saldo conta,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Problema
+w1 - problema,w2 - pagamento de fatura,w3 - problema de compensacao bancaria boleto fatura,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Problema
+w1 - duvida,w2 - pagamento de fatura,w3 - duvida prazo compensacao pagamento pelo saldo em conta,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+w1 - problema,w2 - pagamento de fatura,w3 - bloqueio por atraso indevido de pagamento fatura,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Reclamação
+w1 - problema,w2 - fatura,w3 - erro pagamento compensado fatura diferente,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Problema
+w1 - problema,w2 - fatura,w3 - erro compensacao de pagamento cliente migrado,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Problema
+w1 - duvida,w2 - pagamento de fatura,w3 - duvida compensacao bancaria boleto fatura,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - duvida prazo para compensação boleto fatura,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+bot,bot will - mapa,b3 - duvida horario de pagamento,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+bot,bot will - fatura aberta (3),b3 - duvida prazo para compensacao boleto fatura,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+bot,bot will - cobrança (2),b3 - duvida prazo para compensacao fatura,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - duvida compensacao bancaria,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+w1 - problema,w2 - pagamento de fatura,w3 - boleto nao registrado,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+,,n3 - compra_debito_nao_consta_na_timeline_,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Reclamação
+,,w3 - duvida - compensacao fatura diferente,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Problema
+,,w3 - problema - compensacao fatura diferente,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Problema
+,,w3 - problema - boleto nao registrado,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+,,w3 - duvida - compensacao bancaria,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Problema
+,,w3 - problema - compensacao bancaria,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Problema
+,,w3 - duvida - compensacao saldo conta,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+,,w3 - problema - compensacao saldo conta,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+,,w3 - problema - prazo de compensacao,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+,,w3 - duvida - prazo de compensacao,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+intent,compensacao de antecipacao de fatura,wb-caf,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+intent,compensacao de fatura,wb-cf,Cartão,Pagamento,Pagamento,Compensação fatura,Não,Dúvida
+,,n3 - compra_internacional,Cartão,Compra,Compra,Compra internacional,Não,Dúvida
+w1 - duvida,w2 - cartao de credito fisico,w3 - quais os encargos para compra internacional,Cartão,Compra,Compra,Compra internacional,Não,Dúvida
+,,w3 - duvida - tarifas e encargos,Cartão,Compra,Compra,Compra internacional,Não,Problema
+w1 - duvida,w2 - limite de credito,w3 - Limite aprovacao,Crédito e Cobrança,Limite de crédito,Limite de crédito,Concessão de crédito,Não,Reclamação
+w1 - solicitacao,w2 - limite de credito,w3 - resultado analise de limite de credito,Crédito e Cobrança,Limite de crédito,Limite de crédito,Concessão de crédito,Não,Solicitação
+w1 - duvida,w2 - limite de credito,w3 - limite aprovacao,Crédito e Cobrança,Limite de crédito,Limite de crédito,Concessão de crédito,Não,Reclamação
+w1 - solicitacao,w2 - limite de credito,w3 - alterar limite do cartao de debito,Crédito e Cobrança,Limite de crédito,Limite de crédito,Concessão de crédito,Não,Solicitação
+,,w3 - cisao avista,Crédito e Cobrança,Limite de crédito,Limite de crédito,Concessão de crédito,Não,Dúvida
+,,n3 - como_usar_saldo_conta,Conta,Banking Account,Banking Account,Consulta Saldo,Não,Dúvida
+,,n3 - contactless,Cartão,Compra,Compra,Contactless,Não,Dúvida
+w1 - solicitacao,w2 - cartao de credito fisico,w3 - bloqueio funcao contactless,Cartão,Compra,Compra,Contactless,Não,Dúvida
+w1 - duvida,w2 - cartao de credito virtual,w3 - duvida cartao contactless,Cartão,Compra,Compra,Contactless,Não,Dúvida
+w1 - problema,w2 - cartao de credito virtual,w3 - erro criar cartao virtual,Cartão,Compra,Compra,Contactless,Não,Problema
+w1 - problema,w2 - cartao de credito fisico,w3 - problema cartao contactless,Cartão,Compra,Compra,Contactless,Não,Problema
+w1 - duvida,w2 - cartao de credito fisico,w3 - duvida contactless,Cartão,Compra,Compra,Contactless,Não,Dúvida
+intent,contactless,wb-co,Cartão,Compra,Compra,Contactless,Não,Dúvida
+,,n3 - custódia,Cartão,Ativação,Ativação,Custódia,Não,Reclamação
+,,n3 - custodia apos reenvio,Cartão,Ativação,Ativação,Custódia,Não,Reclamação
+w1 - solicitacao,w2 - logistica,w3 - custodia cartao,Cartão,Ativação,Ativação,Custódia,Não,Solicitação
+w1 - solicitacao,w3 - logistica,w3 - retirar pedido locker,Cartão,Ativação,Ativação,Custódia,Não,Solicitação
+,,n3 - bloqueio_prevencao,Cartão,Compra,Compra,Desbloqueio de cartão,Sim,Problema
+,,n3 - cartao_desbloqueado,Cartão,Compra,Compra,Desbloqueio de cartão,Não,Dúvida
+,,n3 - erro_desbloquear_cartao,Cartão,Compra,Compra,Desbloqueio de cartão,Não,Reclamação
+,,n3 - bloqueio_axur,Cartão,Compra,Compra,Desbloqueio de cartão,Sim,Problema
+w1 - problema,w2 - cartao de credito fisico,w3 - erro desbloquear cartao,Cartão,Compra,Compra,Desbloqueio de cartão,Não,Problema
+w1 - solicitacao,w2 - cartao de credito fisico,w3 - bloqueio ou desbloqueio temporario cartao fisico,Cartão,Compra,Compra,Desbloqueio de cartão,Não,Dúvida
+w1 - solicitacao,w2 - cartao de credito fisico,w3 - cartao desbloqueado,Cartão,Compra,Compra,Desbloqueio de cartão,Sim,Dúvida
+w1 - solicitacao,w2 - fraude,w3 -  bloqueio prevencao fraude cartao,Cartão,Compra,Compra,Desbloqueio de cartão,Sim,Problema
+bot,bot will - desbloqueio de cartão,b3 - como desbloquear cartao,Cartão,Compra,Compra,Desbloqueio de cartão,Não,Dúvida
+w1 - solicitacao,w2 - fraude,w3 - desbloqueio de prevencao,Cartão,Compra,Compra,Desbloqueio de cartão,Sim,Problema
+bot,,q3 - desbloqueio do cartão,Cartão,Compra,Compra,Desbloqueio de cartão,Não,Dúvida
+intent,bloqueio voluntario de cartao,wb-bvc,Cartão,Compra,Compra,Desbloqueio de cartão,Não,Dúvida
+intent,desbloqueio de cartao (bloqueio involuntário de cartão),wb-dc,Cartão,Compra,Compra,Desbloqueio de cartão,Não,Dúvida
+,,n3 - devolucao_de_cartao,Cartão,Ativação,Ativação,Devolução,Não,Dúvida
+w1 - duvida,w2 - logistica,w3 - cartao em devolucao,Cartão,Ativação,Ativação,Devolução,Não,Dúvida
+w1 - problema,w2 - logistica,w3 - cartao em devolucao por difícil acesso,Cartão,Ativação,Ativação,Devolução,Não,Solicitação
+,,n3 - campanha_marketing,Marketing,Product Marketing,Product Marketing,Dúvidas campanha,Não,Dúvida
+,,n3 - mastercard_surpreenda,Marketing,Product Marketing,Product Marketing,Dúvidas campanha,Não,Dúvida
+,,n3 - pesquisas_produto,Marketing,Product Marketing,Product Marketing,Dúvidas campanha,Não,Dúvida
+,,n3 - notificacao_marketing,Marketing,Product Marketing,Product Marketing,Dúvidas campanha,Não,Dúvida
+,,n3 - campanha_dias_das_maes,Marketing,Product Marketing,Product Marketing,Dúvidas campanha,Não,Dúvida
+w1 - duvida,w2 - institucional,w3 -  validacao comunicacao marketing,Marketing,Product Marketing,Product Marketing,Dúvidas campanha,Não,Dúvida
+w1 - solicitacao,w2 - institucional,w3 - pedido de exclusao de push email marketing,Marketing,Product Marketing,Product Marketing,Dúvidas campanha,Não,Solicitação
+w1 - duvida,w2 - institucional,w3 - campanha embaixador will,Marketing,Product Marketing,Product Marketing,Dúvidas campanha,Não,Dúvida
+w1 - duvida,w2 - institucional,w3 - campanha de marketing,Marketing,Product Marketing,Product Marketing,Dúvidas campanha,Não,Dúvida
+w1 - duvida,w2 - institucional,w3 - campanha will friday,Marketing,Product Marketing,Product Marketing,Dúvidas campanha,Não,Dúvida
+w1 - duvida,w2 - institucional,w3 - campanha embaixadores will,Marketing,Product Marketing,Product Marketing,Dúvidas campanha,Não,Dúvida
+,,n3 - campanha_360,Marketing,Product Marketing,Product Marketing,Dúvidas campanha,Não,Dúvida
+,,w3 - investimento que vira limite,Marketing,Product Marketing,Product Marketing,Dúvidas campanha,Não,Dúvida
+,,n3 - motivo mudanca marca,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,n3 - rejeita_solucao,Conta,Acquisition,Acquisition,Dúvidas Conta,Sim,Problema
+,,n3 - dados_bancarios,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,n3 - fim do pag,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,n3 - portabilidade_salario,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,n3 - dados_timeline,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,n3 - puro_debito,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,n3 - relacao pag will,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,n3 - saldo_conta_negativo,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Reclamação
+,,n3 - compra_debito_nao_consta_na_timeline,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,n3 - pessoa_juridica,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,n3 - razao_social,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - duvida,w2 - conta pura,w3 - duvidas conta pura,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - duvida,w2 - ted,w3 - portabilidade de salario,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - duvida,w2 - acesso,w3 - quais as tarifas e encargos para conta,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - duvida,w2 - ted,w3 - quais os meus dados bancarios,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - duvida,w2 - cartao debito,w3 - quais as tarifas e encargos para debito,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1- duvida,w2 - conta pura,w3 - quais as tarifas e encargos da conta pura,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - problema,w2 - conta pura,w3 - erro criacao de conta clientes conta pura,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Reclamação
+w1 - duvida,w2 - novas funcionalidades,w3 - conta,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - solicitacao,w2 - acesso,w3 - quero incluir dependente na conta,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - problema,w2 - acesso,w3 - erro app acessar conta apos migracao,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Problema
+w1 - duvida,w2 - proposta,w3 - duvida menor de idade quer conta will,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - duvida,w2 - acesso,w3 - qual o tipo da conta,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - duvida,w2 - migracao pag will,w3 - relacao pag will,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - duvida,w2 - migracao pag will,w3 - limite entre cartoes pag will,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Solicitação
+w1 - reclamacao,w2 - migracao pag will,w3 - cliente insatisfeito com a migracao,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Reclamação
+,,w3 - resultado analise de cartao debito,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Solicitação
+w1 - duvida,w2 - migracao pag will,w3 - fim do pag,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - duvida,w2 - migracao pag will,w3 - motivo mudanca marca,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - duvida,w2 - migracao pag will,w3 - motivo mudanca marca pag will,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - problema,w2 - conta pura,w3 - erro criação de conta clientes conta pura,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Problema
+,,w3 - resultado analise de migracao pag will,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Solicitação
+,,w3 - resultado analise de rendimento conta,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Solicitação
+bot,bot will - migração,b3 - duvida app antigo,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+bot,bot will - conta pura (3),b3 - duvida conta digital,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - duvida,w2 - cartao debito,w3 - puro debito,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+w1 - duvida,w2 - novas funcionalidades,w3 - quando tera conta digital,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,n3 - teste_puro_debito,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,n3 - migracao pag will,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Solicitação
+bot,,q3 - conta pura,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,w3 - conta simples,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,w3 - conta simples | como obter credito,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,w3 - conta simples | quero cancelar,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Reclamação
+,,w3 - conta simples | como obter cartao de debito,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Solicitação
+,,w3 - conta simples | erro entrega do cartão debito,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,w3 - conta simples | tarifas e encargos cartao debito,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+,,w3 - compra nao autorizada debito fisica,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Reclamação
+,,w3 - usar debito online,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Dúvida
+intent,cartao de debito,wb-cd,Conta,Acquisition,Acquisition,Dúvidas Conta,Não,Solicitação
+,,n3 - conciliacao_compra,Cartão,Compra,Compra,Dúvidas em lançamentos,Não,Dúvida
+,,n3 - melhor_dia_de_compra,Cartão,Compra,Compra,Dúvidas em lançamentos,Não,Dúvida
+,,n3 - operacao reconhecida,Cartão,Compra,Compra,Dúvidas em lançamentos,Sim,Problema
+,,n3 - compra_credito_nao_consta_na_timeline,Cartão,Compra,Compra,Dúvidas em lançamentos,Não,Dúvida
+,,n3 - erro_compra_nao_consta_na_timeline,Cartão,Compra,Compra,Dúvidas em lançamentos,Não,Reclamação
+w1 - duvida,w2 - fatura,w3 - compra em processamento,Cartão,Compra,Compra,Dúvidas em lançamentos,Não,Dúvida
+w1 - problema,w2 - fatura,w3 - problema parcela de compra nao foi lancada,Cartão,Compra,Compra,Dúvidas em lançamentos,Não,Reclamação
+w1 - duvida,w2 - fatura,w3 - compra em conciliacao,Cartão,Compra,Compra,Dúvidas em lançamentos,Não,Dúvida
+bot,bot will - migração,b3 - duvida compra em processamento,Cartão,Compra,Compra,Dúvidas em lançamentos,Não,Dúvida
+,,w3 - duvida - compra em processamento,Cartão,Compra,Compra,Dúvidas em lançamentos,Não,Dúvida
+,,w3 - problema - compra não lançada,Cartão,Compra,Compra,Dúvidas em lançamentos,Não,Problema
+intent,data de melhor compra e fechamento,wb-dmcf,Cartão,Compra,Compra,Dúvidas em lançamentos,Não,Dúvida
+w1 - dúvida,w2 - novas funcionalidades,w3 - fgts | amortizacao,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+w1 - dúvida,w2 - novas funcionalidades,w3 - fgts | cancelamento contrato,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+w1 - dúvida,w2 - novas funcionalidades,w3 - fgts | como adquirir,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+w1 - problema,w2 - novas funcionalidades,w3 - fgts | erros com codigo,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Problema
+w1 - problema,w2 - novas funcionalidades,w3 - fgts | erros sem codigo,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Problema
+w1 - problema,w2 - novas funcionalidades,w3 - fgts | ilegiveis,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Problema
+w1 - problema,w2 - novas funcionalidades,w3 - fgts | inelegiveis,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Problema
+w1 - dúvida,w2 - novas funcionalidades,w3 - fgts | quitacao,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+w1 - solicitação,w2 - novas funcionalidades,w3 - fgts | solicitacao ddc,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Solicitação
+w1 - dúvida,w2 - novas funcionalidades,w3 - fgts | status solicitacao,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+w1 - problema,w2 - novas funcionalidades,w3 - fgts | instabilidade de sistema,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Problema
+bot,bot will - FGTS,b3 - fgts | instabilidade de sistema,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+bot,bot will - FGTS,b3 - fgts | quitacao,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+bot,bot will - FGTS,b3 - fgts | erros sem codigo,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+bot,,q3 - fgts,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+intent,fgts,wb-fgts,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+,,n3 - erro cadastro loja will,Marketplace,Marketplace,Marketplace,Problemas no site ou app,Não,Reclamação
+,,n3 - duvidas loja will,Marketplace,Marketplace,Marketplace,Dúvidas Marketplace,Não,Dúvida
+,,n3 - erro e-mail loja will,Marketplace,Marketplace,Marketplace,Comunicação Loja will,Não,Reclamação
+,,n3 - cpf nao encontrado loja will,Marketplace,Marketplace,Marketplace,Problemas na identificação do cliente,Não,Reclamação
+w1 - duvida,w2 - cashback,w3 - duvidas loja will,Marketplace,Marketplace,Marketplace,Dúvidas Marketplace,Não,Dúvida
+w1 - problema,w2 - cashback,w3 - erro e-mail loja will,Marketplace,Marketplace,Marketplace,Comunicação Loja will,Não,Dúvida
+w1 - problema,w2 - cashback,w3 - erro cadastro loja will,Marketplace,Marketplace,Marketplace,Problemas no site ou app,Não,Dúvida
+w1 - problema,w2 - cashback,w3 - erro cupom loja will,Marketplace,Marketplace,Marketplace,Cupom,Não,Dúvida
+w1 - problema,w2 - cashback,w3 - cpf nao encontrado loja will,Marketplace,Marketplace,Marketplace,Problemas na identificação do cliente,Não,Problema
+bot,bot will - cashback,b3 - duvida cupom de desconto,Marketplace,Marketplace,Marketplace,Cupom,Não,Dúvida
+bot,bot will - mapa,b3 - duvida loja will,Marketplace,Marketplace,Marketplace,Dúvidas Marketplace,Não,Dúvida
+bot,,q3 - loja will,Marketplace,Marketplace,Marketplace,Dúvidas Marketplace,Não,Dúvida
+intent,loja e cashback,wb-lca,Marketplace,Marketplace,Marketplace,Dúvidas Marketplace,Não,Dúvida
+,,n3 - pix,Conta,Pix,Pix,Dúvidas PIX,Sim,Problema
+,,n3 - pix bacen - vazamento,Conta,Pix,Pix,Dúvidas PIX,Sim,Problema
+,,n3 - solicitação aumento pix,Conta,Pix,Pix,Dúvidas PIX,Não,Solicitação
+,,n3 - como cadastrar ou alterar meu pix,Conta,Pix,Pix,Dúvidas PIX,Não,Dúvida
+,,n3 - pix_para_conta_pag,Conta,Pix,Pix,Dúvidas PIX,Não,Dúvida
+,,n3 - open banking,Conta,Pix,Pix,Dúvidas PIX,Não,Dúvida
+w1 - problema,w2 - pix,w3 - pix bacen - vazamento,Conta,Pix,Pix,Dúvidas PIX,Sim,Problema
+w1 - duvida,w2 - pix,w3 - quais as tarifas e encargos para pix,Conta,Pix,Pix,Dúvidas PIX,Não,Dúvida
+w1 - duvida,w2 - pix,w3 - duvidas limite pix,Conta,Pix,Pix,Dúvidas PIX,Não,Dúvida
+w1 - duvida,w2 - pix,w3 - duvidas sobre portabilidade pix,Conta,Pix,Pix,Dúvidas PIX,Não,Dúvida
+,,w3 - quando tera open banking,Conta,Pix,Pix,Dúvidas PIX,Não,Dúvida
+bot,bot will - pix,b3 - duvida pix,Conta,Pix,Pix,Dúvidas PIX,Não,Dúvida
+w1 - solicitacao,w2 - pix,w3 - resultado analise de pix,Conta,Pix,Pix,Dúvidas PIX,Não,Solicitação
+,,n3 - avaliacao_pix,Conta,Pix,Pix,Dúvidas PIX,Sim,Problema
+intent,duvidas pix,wb-dp,Conta,Pix,Pix,Dúvidas PIX,Não,Dúvida
+w1 - duvida,w2 - gamificacao,w3 - duvida campanha gamificacao,Cartão,Aprovação,Aprovação,Dúvidas sobre campanha gamificação,Não,Dúvida
+w1 - problema,w2 - gamificacao,w3 - problema campanha gamificacao,Cartão,Aprovação,Aprovação,Dúvidas sobre campanha gamificação,Não,Reclamação
+w1 - reclamacao,w2 - limite de credito,w3 - nao recebeu aumento da gamificacao,Cartão,Aprovação,Aprovação,Dúvidas sobre campanha gamificação,Não,Reclamação
+,,n3 - campanha aumento de limite,Cartão,Aprovação,Aprovação,Dúvidas sobre campanha gamificação,Não,Dúvida
+bot,,q3 - gamificação,Cartão,Aprovação,Aprovação,Dúvidas sobre campanha gamificação,Não,Dúvida
+,,n3 - melhor_dia_de_compra,Cartão,Compra,Compra,Dúvidas sobre cartão,Não,Dúvida
+,,n3 - cartao_dual,Cartão,Compra,Compra,Dúvidas sobre cartão,Não,Dúvida
+,,n3 - duvidas cartao amarelo,Cartão,Compra,Compra,Dúvidas sobre cartão,Não,Dúvida
+w1 - duvida,w2 - cartao de credito fisico,w3 - duvida cartao dual,Cartão,Compra,Compra,Dúvidas sobre cartão,Não,Dúvida
+w1 - duvida,w2 - cartao de credito fisico,w3 - duvidas dados do cartao,Cartão,Compra,Compra,Dúvidas sobre cartão,Não,Dúvida
+w1 - duvida,w2 - cartao de credito fisico,w3 - cartao dual,Cartão,Compra,Compra,Dúvidas sobre cartão,Não,Dúvida
+w1 - duvida,w2 - cadastro,w3 - bandeira do cartão.,Cartão,Compra,Compra,Dúvidas sobre cartão,Não,Dúvida
+intent,status cartao,wb-sca,Cartão,Compra,Compra,Dúvidas sobre cartão,Não,Dúvida
+,,n3 - emprestimo,Crédito Pessoal,Crédito Pessoal,Crédito Pessoal,Dúvidas sobre empréstimo/crédito pessoal,Não,Dúvida
+,,n3 - emprestimo pessoal,Crédito Pessoal,Crédito Pessoal,Crédito Pessoal,Dúvidas sobre empréstimo/crédito pessoal,Não,Dúvida
+,,n3 - antecipacao_emprestimo_pessoal,Crédito Pessoal,Crédito Pessoal,Crédito Pessoal,Dúvidas sobre empréstimo/crédito pessoal,Não,Solicitação
+w1 - duvida,w2 - novas funcionalidades,w3 - quando tera emprestimo,Crédito Pessoal,Crédito Pessoal,Crédito Pessoal,Dúvidas sobre empréstimo/crédito pessoal,Não,Dúvida
+w1 - duvida,w2 - novas funcionalidades,w3 - credito pessoal,Crédito Pessoal,Crédito Pessoal,Crédito Pessoal,Dúvidas sobre empréstimo/crédito pessoal,Não,Dúvida
+bot,bot will - empréstimo,b3 - duvida emprestimo,Crédito Pessoal,Crédito Pessoal,Crédito Pessoal,Dúvidas sobre empréstimo/crédito pessoal,Não,Dúvida
+bot,bot will - FGTS,b3 - fgts | amortizacao,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+bot,bot will - FGTS,b3 - fgts | cancelamento contrato,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+bot,bot will - FGTS,b3 - fgts | como adquirir,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+bot,bot will - FGTS,b3 - fgts | duvidas antes de contratar,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+bot,bot will - FGTS,b3 - fgts | duvidas apos contratar,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+bot,bot will - FGTS,b3 - fgts | ilegiveis,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+bot,bot will - FGTS,b3 - fgts | inelegiveis,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+bot,bot will - FGTS,b3 - fgts | solicitacao ddc,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+bot,bot will - FGTS,b3 - fgts | status solicitacao,Crédito Pessoal,FGTS,FGTS,Dúvidas FGTS,Não,Dúvida
+w1 - duvida,w2 - novas funcionalidades,w3 - quando tera credito pessoal,Crédito Pessoal,Crédito Pessoal,Crédito Pessoal,Dúvidas sobre empréstimo/crédito pessoal,Não,Dúvida
+,,w3 - credito pessoal | como adquirir,Crédito Pessoal,Empréstimo,Empréstimo,Crédito pessoal,Não,Dúvida
+,,w3 - credito pessoal | amortização,Crédito Pessoal,Empréstimo,Empréstimo,Crédito pessoal,Não,Solicitação
+,,w3 - credito Pessoal | cancelamento,Crédito Pessoal,Empréstimo,Empréstimo,Crédito pessoal,Não,Solicitação
+,,w3 - credito Pessoal | erros,Crédito Pessoal,Empréstimo,Empréstimo,Crédito pessoal,Não,Problema
+,,w3 - credito pessoal | ddc,Crédito Pessoal,Empréstimo,Empréstimo,Crédito pessoal,Não,Solicitação
+,,w3 - credito pessoal | portabilidade,Crédito Pessoal,Empréstimo,Empréstimo,Crédito pessoal,Não,Solicitação
+,,w3 - credito pessoal | negociacao,Crédito Pessoal,Empréstimo,Empréstimo,Crédito pessoal,Não,Solicitação
+bot,,q3 - empréstimo,Crédito Pessoal,Crédito Pessoal,Crédito Pessoal,Dúvidas sobre empréstimo/crédito pessoal,Não,Dúvida
+intent,emprestimo,wb-emp,Crédito Pessoal,Crédito Pessoal,Crédito Pessoal,Dúvidas sobre empréstimo/crédito pessoal,Não,Dúvida
+,,n3 - limite_retido,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Dúvida
+,,n3 - limite_disponivel,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Dúvida
+,,n3 - limite emergencial zerado,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Reclamação
+,,n3 - restabelecimento_limite,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Solicitação
+,,n3 - ajustar_limite,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Dúvida
+,,n3 - limite reduzido inativos,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Reclamação
+w1 - duvida,w2 - limite de credito,w3 - duvida limite disponivel,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Dúvida
+w1 - problema,w2 - limite de credito,w3 - erro limite divergente app evoluwill,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Problema
+w1 - duvida,w2 - limite de credito,w3 - duvida limite negativo,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - limite retido apos parcelamento,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Dúvida
+w1 - duvida,w2 - limite de credito,w3 - consumo limite em compra parcelada,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Dúvida
+w1 - problema,w2 - limite de credito,w3 - limite reduzido inativos,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Dúvida
+bot,bot will - cartão virtual,b3 - duvida limite cartao virtual,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Dúvida
+bot,bot will - limite de crédito (2),b3 - duvida limite negativo,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Dúvida
+bot,bot will - conta pura (3),b3 - duvida limite zerado,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Dúvida
+w1 - solicitacao,w2 - limite de credito,w3 - resultado analise de reducao de limite,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Solicitação
+,,n3 - limite zerado inadimplencia,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Solicitação
+,,n3 - analise de limite estrategicamente reduzido,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Solicitação
+,,n3 - resultado analise de reducao de limite,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Solicitação
+bot,,b3 - duvida limite emergencial,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Dúvida
+bot,,q3 - limite de crédito,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Dúvida
+intent,limite emergencial e cheque especial,wb-lece,Crédito e Cobrança,Limite de crédito,Limite de crédito,Dúvidas sobre limite de crédito,Não,Dúvida
+,,n3 - quitacao_da_fatura_aceita,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Solicitação
+,,n3 - solicitacao_quitacao_da_fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Solicitação
+,,n3 - estorno_de_encargos,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Reclamação
+,,n3 - erro_pagamento_de_fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Reclamação
+,,n3 - pagamento_online,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - estorno_de_pagamento,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - previsao_pagamento_fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - como_pagar_via_saldo_conta,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - pagamento_identificado,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - boleto_abaixo_valor_minimo,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - valor_minimo_da_fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - como_pagar_via_boleto_banco,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - pagamento_fatura_duplicado,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Reclamação
+,,n3 - como_pagar_boleto_parcial,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - estorno_debito,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Reclamação
+,,n3 - como_pagar_via_boleto_loterica,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - como_pagar_via_pec,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - dúvida pec desativado,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - como_pagar_via_caixa_eletronico,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - pague_quanto_quiser,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Sim,Solicitação
+w1 - duvida,w2 - pagamento de fatura,w3 - como pagar fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - previsao pagamento fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - solicitacao,w2 - backoffice,w3 - estorno de pagamento,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Reclamação
+w1 - solicitacao,w2 - cobranca,w3 - quitacao da fatura em atraso,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Solicitação
+w1 - problema,w2 - pagamento de fatura,w3 - erro pagamento de fatura com boleto,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Problema
+w1 - duvida,w2 - pagamento de fatura,w3 - como pagar fatura com a conta will,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - problema,w2 - pagamento de fatura,w3 - bloqueio por atraso de pagamento fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Reclamação
+w1 - duvida,w2 - fatura,w3 - qual valor minimo da fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como gerar boleto parcial da fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como finalizar pagamento de fatura via saldo conta,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Problema
+w1 - duvida,w2 - pagamento de fatura,w3 - como fazer pagamento online fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - duvida pagamento fatura abaixo do minimo,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como pagar boleto fatura via conta will,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1- duvida,w2 - fatura,w3 - duvida apos pagamento minino da fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - problema,w2 - pagamento de fatura,w3 - erro saldo disponivel pagamento de fatura com saldo,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Problema
+w1 - duvida,w2 - pagamento de fatura,w3 - como realizar antecipacao via saldo conta,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - cobranca,w3 - recebimento do boleto,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Solicitação
+w1 - duvida,w2 - pagamento de fatura,w3 - como pagar boleto parcial fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1- duvida,w2 - pagamento de fatura,w3 - como pagar fatura via boleto banco,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como pagar fatura via boleto loterica,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como pagar fatura via pec,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - solicitacao,w2 - cobranca,w3 - nao negociado cliente em fechamento de fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Solicitação
+w1 - duvida,w2 - pagamento de fatura,w3 - como pagar fatura via caixa eletronico,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - problema,w2 - pagamento de fatura,w3 - erro pagamento de fatura app,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Problema
+,,w3 - resultado analise de pagamentos,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Solicitação
+,,w3 - operacao reconhecida,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Sim,Problema
+bot,bot will - migração,b3 - como pagar fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+bot,bot will - fatura fechada (3),b3 - como pagar fatura via saldo conta,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como pagar fatura via saldo conta,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Problema
+w1 - duvida,w2 - pagamento de fatura,w3 - como pagar boleto parcial,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como gerar boleto parcial,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como pagar via saldo conta,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Problema
+w1 - problema,w2 - pagamento de fatura,w3 - bloqueio por atraso,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Reclamação
+w1 - duvida,w2 - pagamento de fatura,w3 - como pagar via boleto loterica,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como pagar via pec,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - duvida pagamento abaixo do minimo,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como fazer pagamento online,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - problema,w2 - pagamento de fatura,w3 - erro pagamento de fatura no app,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Problema
+w1 - problema,w2 - pagamento de fatura,w3 - resultado analise de pagamento de fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Solicitação
+w1- duvida,w2 - pagamento de fatura,w3 - como pagar via boleto banco,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como pagar via caixa eletronico,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - feriado_sao_paulo,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,n3 - devolucao_de_credito,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+bot,,b3 - bloqueio por atraso de pagamento fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Reclamação
+bot,bot will - cobrança on,b3 - envio de codigo de boleto,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+bot,,b3 - como pagar via saldo conta,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Problema
+,,w3 - problema - estorno de pagamento,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Reclamação
+,,w3 - duvida - cliente em fechamento de fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Solicitação
+,,w3 - problema - cliente em fechamento de fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Solicitação
+,,w3 - duvida - quitacao,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Solicitação
+,,w3 - problema - quitacao,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Solicitação
+,,w3 - duvida - formas de pagamento,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,w3 - problema - formas de pagamento,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,w3 - duvida - bloqueio por atraso,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Reclamação
+,,w3 - problema - bloqueio por atraso,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Reclamação
+,,w3 - solicitacao - boleto de entrada parcelamento,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Solicitação
+,,w3 - duvida - pagar fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,w3 - problema - pagar fatura,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,w3 - duvida - saldo conta,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,w3 - problema - saldo conta,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,w3 - duvida - valor minimo,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+,,w3 - problema - valor minimo,Cartão,Pagamento,Pagamento,Dúvidas sobre pagamento de fatura,Não,Dúvida
+w1 - duvida,w2 - financeira,w3 - como investir na will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Dúvida
+w1 - duvida,w2 - financeira,w3 - quais produtos will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Dúvida
+w1 - solicitacao,w2 - financeira,w3 - atendimento corretora will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Solicitação
+w1 - duvida,w2 - financeira,w3 - como fazer cadastro will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Dúvida
+w1 - duvida,w2 - financeira,w3 - como atualizar cadastro will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Solicitação
+w1 - solicitacao,w2 - financeira,w3 - resultado analise cadastro will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Solicitação
+w1 - solicitacao,w2 - financeira,w3 - transferencia de custodia will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Solicitação
+w1 - duvida,w2 - financeira,w3 - como fazer resgate da aplicacao will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Dúvida
+w1 - duvida,w2 - financeira,w3 - como fazer resgate antecipado will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Dúvida
+w1 - duvida,w2 - financeira,w3 - vencimento de titulos will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Dúvida
+w1 - duvida,w2 - financeira,w3 - como acessar investimentos will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Solicitação
+w1 - duvida,w2 - financeira,w3 - como acessar nota de aplicacao will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Dúvida
+w1 - duvida,w2 - financeira,w3 - como acessar informe de rendimentos fiscais will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Dúvida
+w1 - reclamacao,w2 - financeira,w3 - nao reconhece vinculo will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Problema
+w1 - duvida,w2 - financeira,w3 - razao social will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Dúvida
+w1 - duvida,w2 - financeira,w3 - outras duvidas will financeira,Conta,Banking Account,Banking Account,Dúvidas Will Financeira,Não,Dúvida
+,,n3 - motivo erro pix,Conta,Pix,Pix,Envio de PIX,Não,Reclamação
+,,n3 - erro app ao fazer pix,Conta,Pix,Pix,Envio de PIX,Não,Reclamação
+,,n3 - cancelar transacao pix,Conta,Pix,Pix,Envio de PIX,Não,Solicitação
+,,n3 - estorno pix no credito,Conta,Pix,Pix,Envio de PIX,Não,Dúvida
+,,n3 - prazo para compensacao do pix,Conta,Pix,Pix,Envio de PIX,Não,Dúvida
+,,n3 - fiz pix 2 vezes,Conta,Pix,Pix,Envio de PIX,Não,Reclamação
+w1 - problema,w2 - pix,w3 - pix nao compensado de destino,Conta,Pix,Pix,Envio de PIX,Não,Problema
+w1 - duvida,w2 - pix,w3 - prazo para compensacao do pix,Conta,Pix,Pix,Envio de PIX,Não,Dúvida
+w1 - problema,w2 - pix,w3 - erro app ao fazer pix,Conta,Pix,Pix,Envio de PIX,Não,Dúvida
+w1 - duvida,w2 - pix,w3 - como fazer pix com o credito,Conta,Pix,Pix,Envio de PIX,Não,Dúvida
+w1 - solicitacao,w2 - pix,w3 - cancelar transacao pix,Conta,Pix,Pix,Envio de PIX,Não,Dúvida
+w1 - duvida,w2 - pix,w3 - como fazer pix pelo app,Conta,Pix,Pix,Envio de PIX,Não,Dúvida
+w1 - solicitacao,w2 - pix,w3 - fiz pix 2 vezes,Conta,Pix,Pix,Envio de PIX,Não,Dúvida
+w1 - duvida,w2 - novas funcionalidades,w3 - pix,Conta,Pix,Pix,Envio de PIX,Não,Dúvida
+w1 - solicitacao,w2 - pix,w3 - cancelar agendamento pix,Conta,Pix,Pix,Envio de PIX,Não,Dúvida
+,,w3 - cancelamento agendamento pix,Conta,Pix,Pix,Envio de PIX,Não,Solicitação
+bot,bot will - pix,b3 - como fazer pix,Conta,Pix,Pix,Envio de PIX,Não,Dúvida
+intent,cancelamento e estorno de pix,wb-cep,Conta,Pix,Pix,Envio de PIX,Não,Solicitação
+intent,envio de pix,wb-ep,Conta,Pix,Pix,Envio de PIX,Não,Dúvida
+,,n3 - ted_efetivada_nao_compensada,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Reclamação
+,,n3 - ted_outros_bancos,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Dúvida
+,,n3 - motivo_erro_ted,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Reclamação
+,,n3 - erro_ted,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Reclamação
+,,n3 - como_realizar_ted,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Dúvida
+,,n3 - cancelar_ted,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Reclamação
+,,n3 - ted_entrepag,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Dúvida
+,,w3 - resultado analise de ted,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Solicitação
+w1 - duvida,w2 - ted,w3 - como fazer ted no app,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Dúvida
+w1 - duvida,w2 - ted,w3 - prazo para compensacao do ted,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Dúvida
+w1 - problema,w2 - ted,w3 - erro app ao fazer ted,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Problema
+w1 - duvida,w2 - deposito,w3 - quais as tarifas e encargos para deposito,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Dúvida
+w1 - duvida,w2 - ted,w3 - quais as tarifas e encargos para ted,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Dúvida
+w1 - solicitacao,w2 - ted,w3 - quero cancelar um ted que fiz,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Dúvida
+w1 - problema,w2 - ted,w3 - fiz ted 2 vezes,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Reclamação
+w1 - duvida,w2 - novas funcionalidades,w3 - ted,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Dúvida
+w1 - duvida,w2 - ted,w3 - como incluir ou alterar favorecidos,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Solicitação
+w1 - sugestao,w2 - ted,w3 - como fazer ted para um banco que nao tem no app,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Solicitação
+w1 - duvida,w2 - ted,w3 - quando tera ted,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Dúvida
+,,n3 - ted_para_conta_pag,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Dúvida
+intent,ted e doc,wb-tdo,Conta,Banking Transfers,Banking Transfers,Envio de TED,Não,Dúvida
+,,n3 -  atualização_ de_ versão,Tecnologia,Tecnologia,Tecnologia,Erro acessar app,Não,Dúvida
+,,n3 - erro_acessar_app,Tecnologia,Tecnologia,Tecnologia,Erro acessar app,Não,Reclamação
+,,n3 - app_desatualizado,Tecnologia,Tecnologia,Tecnologia,Erro acessar app,Não,Dúvida
+,,n3 - erro_ao_validar_cvv,Tecnologia,Tecnologia,Tecnologia,Erro acessar app,Não,Problema
+,,n3 - erro_instabilidade_conexao_app,Tecnologia,Tecnologia,Tecnologia,Erro acessar app,Não,Reclamação
+,,n3 - validar_cvv,Tecnologia,Tecnologia,Tecnologia,Erro acessar app,Não,Problema
+w1 - problema,w2 - acesso,w3 - erro acessar app instabilidade,Tecnologia,Tecnologia,Tecnologia,Erro acessar app,Não,Problema
+w1 - duvida,w2 - acesso,w3 - como acessar conta no app,Tecnologia,Tecnologia,Tecnologia,Erro acessar app,Não,Dúvida
+w1 - problema,w2 - acesso,w3 - problema acesso ao app acusa cvc incorreto,Tecnologia,Tecnologia,Tecnologia,Erro acessar app,Não,Problema
+w1 - problema,w2 - acesso,w3 - erro acessar app data de nascimento,Tecnologia,Tecnologia,Tecnologia,Erro acessar app,Não,Problema
+w1 - problema,w2 - acesso,w3 - erro acessar app cpf,Tecnologia,Tecnologia,Tecnologia,Erro acessar app,Não,Problema
+w1 - problema,w2 - acesso,w3 - erro acessar app fora do pais,Tecnologia,Tecnologia,Tecnologia,Erro acessar app,Não,Problema
+,,w3 - resultado analise de institucional,Tecnologia,Tecnologia,Tecnologia,Erro acessar app,Não,Solicitação
+w1 - problema,w2 - acesso,w3 - erro funcionalidades app,Tecnologia,Tecnologia,Tecnologia,Erro Funcionalidades,Não,Problema
+w1 - problema,w2 - institucional,w3 - problema envio de notificacao indevida,Tecnologia,Tecnologia,Tecnologia,Erro Funcionalidades,Não,Dúvida
+intent,bug ou erro no app,wb-bea,Tecnologia,Tecnologia,Tecnologia,Erro Funcionalidades,Não,Dúvida
+,,n3 - perfil_fake,Fraude,Fraude,Fraude,Falsidade ideológica,Sim,Reclamação
+w1 - solicitacao,w2 - fraude,w3 - denuncia perfil falso,Fraude,Fraude,Fraude,Falsidade ideológica,Sim,Reclamação
+w1 - solicitacao,w2 - fraude,w3 - perfil falso,Fraude,Fraude,Fraude,Falsidade ideológica,Sim,Reclamação
+w1 - solicitacao,w2 - fraude,w3 - falsidade ideologica,Fraude,Fraude,Fraude,Falsidade ideológica,Sim,Problema
+intent,anuncios fraudulentos,wb-afr,Fraude,Fraude,Fraude,Falsidade ideológica,Sim,Problema
+intent,fraude pix,wb-fpi,Fraude,Fraude,Fraude,Falsidade ideológica,Sim,Problema
+intent,golpe,wb-gp,Fraude,Fraude,Fraude,Falsidade ideológica,Sim,Reclamação
+,,n3 - fatura_duplicada,Cartão,Pagamento,Pagamento,Fatura duplicada,Não,Reclamação
+w1 - problema,w2 - pagamento de fatura,w3 - pagamento fatura duplicado,Cartão,Pagamento,Pagamento,Fatura duplicada,Não,Problema
+w1 - problema,w2 - fatura,w3 - fatura duplicada,Cartão,Pagamento,Pagamento,Fatura duplicada,Não,Problema
+w1 - solicitacao,w2 - pagamento de fatura,w3 - baixa fatura duplicada,Cartão,Pagamento,Pagamento,Fatura duplicada,Não,Problema
+,,w3 - problema - pagamento duplicado,Cartão,Pagamento,Pagamento,Fatura duplicada,Não,Problema
+intent,fatura repetida,wb-fr,Cartão,Pagamento,Pagamento,Fatura duplicada,Não,Problema
+,,n3 - nao entendi faturas futuras,Cartão,Compra,Compra,Faturas futuras,Não,Dúvida
+,,n3 - erro_app_sem_faturas_futuras,Cartão,Compra,Compra,Faturas futuras,Não,Reclamação
+w1 - solicitacao,w2 - fatura,w3 - will duvidas faturas futuras,Cartão,Compra,Compra,Faturas futuras,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - duvidas faturas futuras,Cartão,Compra,Compra,Faturas futuras,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - nao entendi faturas futuras,Cartão,Compra,Compra,Faturas futuras,Não,Dúvida
+w1 - solicitacao,w2 - fatura,w3 - pag duvidas faturas futuras,Cartão,Compra,Compra,Faturas futuras,Não,Dúvida
+w1 - problema,w2 - fatura,w3 - erro app sem faturas futuras,Cartão,Compra,Compra,Faturas futuras,Não,Problema
+bot,bot will - migração,b3 - duvidas faturas futuras,Cartão,Compra,Compra,Faturas futuras,Não,Dúvida
+bot,bot will - fatura fechada (3),b3 - fatura zerada,Cartão,Compra,Compra,Faturas futuras,Não,Dúvida
+w1 - duvida,w2 - migracao pag will,w3 - migracao fatura pag,Cartão,Compra,Compra,Faturas futuras,Não,Dúvida
+,,w3 - duvida - detalhamento de faturas,Cartão,Compra,Compra,Faturas futuras,Não,Dúvida
+,,w3 - problema - erro boleto,Cartão,Compra,Compra,Faturas futuras,Não,Problema
+,,w3 - duvida - faturas futuras,Cartão,Compra,Compra,Faturas futuras,Não,Dúvida
+intent,valor da(s) proxima(s) fatura(s),wb-vpf,Cartão,Compra,Compra,Faturas futuras,Não,Dúvida
+,,n3 – nao negociado – cliente em fechamento de fatura,Cartão,Pagamento,Pagamento,Fechamento Fatura,Não,Solicitação
+,,n3 - erro_fechamento_fatura,Cartão,Pagamento,Pagamento,Fechamento Fatura,Não,Reclamação
+,,n3 - qual_dia_minha_fatura_fecha,Cartão,Pagamento,Pagamento,Fechamento Fatura,Não,Dúvida
+,,n3 - erro_opcao_gerar_boleto_invalida,Cartão,Pagamento,Pagamento,Fechamento Fatura,Não,Reclamação
+w1 - problema,w2 - fatura,w3 - erro fechamento fatura,Cartão,Pagamento,Pagamento,Fechamento Fatura,Não,Problema
+w1 - duvida,w2 - fatura,w3 - qual dia minha fatura fecha,Cartão,Pagamento,Pagamento,Fechamento Fatura,Não,Dúvida
+bot,,b3 - duvidas fechamento fatura,Cartão,Pagamento,Pagamento,Fechamento Fatura,Não,Dúvida
+,,w3 - duvida - data de fechamento,Cartão,Pagamento,Pagamento,Fechamento Fatura,Não,Dúvida
+,,w3 - problema - data de fechamento,Cartão,Pagamento,Pagamento,Fechamento Fatura,Não,Dúvida
+intent,atraso no fechamento ou erro ao pagar fatura,wb-afpf,Cartão,Pagamento,Pagamento,Fechamento Fatura,Não,Reclamação
+,,n3 - como_gerar_boleto_parcial,Cartão,Pagamento,Pagamento,Gerar fatura,Não,Dúvida
+,,n3 - como_gerar_fatura,Cartão,Pagamento,Pagamento,Gerar fatura,Não,Dúvida
+,,n3 - erro_gerar_boleto_fatura,Cartão,Pagamento,Pagamento,Gerar fatura,Não,Reclamação
+w1- duvida,w2 - pagamento de fatura,w3 - como gerar fatura,Cartão,Pagamento,Pagamento,Gerar fatura,Não,Dúvida
+w1 - problema,w2 - pagamento de fatura,w3 - erro ao visualizar fatura,Cartão,Pagamento,Pagamento,Gerar fatura,Não,Problema
+w1 - duvida,w2 - fatura,w3 - como visualizar fatura no app,Cartão,Pagamento,Pagamento,Gerar fatura,Não,Dúvida
+w1 - solicitacao,w2 - cobranca,w3 - reenvio de boleto cliente em atraso,Cartão,Pagamento,Pagamento,Gerar fatura,Não,Solicitação
+w1 - duvida,w2 - pagamento de fatura,w3 - gerar boleto parcial fatura,Cartão,Pagamento,Pagamento,Gerar fatura,Não,Solicitação
+,,w3 - solicitacao - reenvio de boleto cliente em atraso,Cartão,Pagamento,Pagamento,Gerar fatura,Não,Solicitação
+,,w3 - duvida - visualizar fatura,Cartão,Pagamento,Pagamento,Gerar fatura,Não,Dúvida
+,,w3 - problema - visualizar fatura,Cartão,Pagamento,Pagamento,Gerar fatura,Não,Dúvida
+,,w3 - duvida - gerar fatura,Cartão,Pagamento,Pagamento,Gerar fatura,Não,Dúvida
+,,w3 - problema - gerar fatura,Cartão,Pagamento,Pagamento,Gerar fatura,Não,Dúvida
+,,n3 - extrato saldo conta,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Solicitação
+,,n3 - apagar_historico_app,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Solicitação
+,,n3 - termo_de_quitacao,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Solicitação
+,,w3 - resultado analise de extrato e saldo,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Solicitação
+w1 - duvida,w2 - extrato e saldo,w3 - como acessar extrato ou saldo,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Dúvida
+w1 - problema,w2 - extrato e saldo,w3 - erro app acessar saldo e extrato,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Problema
+w1 - solicitacao,w2 - backoffice,w3 - compensacao bancaria fora do prazo,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Reclamação
+w1 - duvida,w2 - extrato e saldo,w3 - quais as tarifas e encargos para extrato,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Dúvida
+w1 - duvida,w2 - financeira,w3 - como acessar extrato das aplicacoes will financeira,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Solicitação
+w1 - duvida,w2 - novas funcionalidades,w3 - saldo e extrato,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Dúvida
+w1 - solicitacao,w2 - atendimento,w3 - declaracao quitacao,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Solicitação
+,,n3 - declaracao quitacao,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Solicitação
+intent,gestao de extrato,wb-ge,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Dúvida
+,,n3 - recarga_inoperante,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Reclamação
+,,n3 - como_fazer_recarga_de_celular,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+,,n3 - recarga_duplicada,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Reclamação
+w1 - duvida,w2 - recarga de celular,w3 - como fazer recarga no app,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+w1 - problema,w2 - recarga de celular,w3 - app nao me deixa fazer recarga de celular,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Problema
+w1 - solicitacao,w2 - recarga de celular,w3 - quero cancelar uma recarga de celular,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+w1 - duvida,w2 - recarga de celular,w3 - prazo para compensacao da recarga,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+w1 - problema,w2 - recarga de celular,w3 - erro recarga duplicada,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Problema
+w1 - sugestao,w2 - recarga de celular,w3 - recarga para outra operadora,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+w1 - sugestao,w2 - recarga de celular,w3 - quero agendar recarga de celular,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+w1 - problema,w2 - recarga de celular,w3 - fiz a recarga para o numero errado,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+w1 - problema,w2 - recarga de celular,w3 - historico de recarga incorreto,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Reclamação
+w1 - problema,w2 - recarga de celular,w3 - fiz mesma recarga 2 vezes,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+w1 - duvida,w2 - recarga de celular,w3 - quais as tarifas e encargos para recarga de celular,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+w1 - problema,w2 - recarga de celular,w3 - valor creditado no celular diferente da recarga,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Reclamação
+w1 - duvida,w2 - novas funcionalidades,w3 - recarga de celular,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+w1 - sugestao,w2 - recarga de celular,w3 - quero recarga de celular em debito automático,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+w1 - sugestao,w2 - recarga de celular,w3 - quero recarregar um valor maior do que aparece no app,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+w1 - problema,w2 - recarga de celular,w3 - problema recarga estornada,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Problema
+w1 - problema,w2 - recarga de celular,w3 - problema de recarga nao compensada,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Problema
+w1 - duvida,w2 - recarga de celular,w3 - cliente quer saber detalhes da recarga,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Solicitação
+,,w3 - quero recarga de celular em debito automatico,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+,,w3 - resultado analise de recarga de celular,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Solicitação
+bot,bot will - conta pura (3),b3 - duvida recarga celular,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+w1 - duvida,w2 - recarga de celular,w3 - quando tera recarga de celular,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+intent,recarga de celular,wb-rce,Conta,Banking Transfers,Banking Transfers,Gestão de Recarga,Não,Dúvida
+,,n3 - transacao_sem_cartao,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Dúvida
+,,n3 - como_realizar_saque,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Dúvida
+,,n3 - problemas_no_saque,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Problema
+,,n3 - nao_reconhece_saque,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Sim,Problema
+,,n3 - limite_de_saques,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Dúvida
+,,n3 - nao_reconhece_saque - cartao_perdido,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Sim,Problema
+,,n3 - nao_reconhece_saque - cartao_roubado,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Sim,Problema
+w1 - duvida,w2 - saque,w3 - quais as tarifas e encargos para saque,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Dúvida
+w1 - duvida,w2 - saque,w3 - como fazer saque com limite de crédito,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Dúvida
+w1 - duvida,w2 - saque,w3 - quais locais para saque,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Dúvida
+w1 - duvida,w2 - saque,w3 - como sacar no Brasil,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Dúvida
+w1 - problema,w2 - saque,w3 - erro saque indisponivel,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Problema
+w1 - solicitacao,w2 - saque,w3 - rever limite de saque,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Dúvida
+w1 - solicitacao,w2 - fraude,w3 - nao reconhece saque,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Sim,Problema
+w1 - duvida,w2 - saque,w3 - quero sacar sem cartao,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Dúvida
+w1 - solicitacao,w2 - backoffice,w3 - problema no valor sacado,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Problema
+w1 - duvida,w2 - novas funcionalidades,w3 - saque,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Dúvida
+w1 - duvida,w2 - saque,w3 - como sacar fora do Brasil,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Dúvida
+w1 - problema,w2 - saque,w3 - fiz saque mas o dinheiro nao saiu,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Reclamação
+w1 - duvida,w2 - saque,w3 - como sacar no brasil,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Dúvida
+w1 - duvida,w2 - saque,w3 - como sacar fora do brasil,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Dúvida
+intent,saque,wb-saq,Conta,Banking Transfers,Banking Transfers,Gestão de Saque,Não,Dúvida
+,,n3 - rendimentos,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Solicitação
+,,n3 - informe_de_rendimentos_irpf,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Solicitação
+w1 - duvida,w2 - investimento,w3 - quais as tarifas e encargos do cdb pre,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - rendimento conta,w3 - quais as tarifas e encargos o rendimento da conta,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - investimento,w3 - duvidas rendimento cdb pre,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - investimento,w3 - valor de rendimento cdb pre nao bate,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Reclamação
+w1 - duvida,w2 - investimento,w3 - como resgatar rendimento cdb pre antes da data,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Solicitação
+w1 - duvida,w2 - investimento,w3 - quais as tarifas e encargos do separar dinheiro,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - investimento,w3 - duvidas rendimento separar dinheiro,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - investimento,w3 - valor de rendimento separar dinheiro nao bate,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - investimento,w3 - como resgatar rendimento separar dinheiro antes da data,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Solicitação
+w1 - duvida,w2 - novas funcionalidades,w3 - rendimento conta,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - rendimento conta,w3 - entendimento rendimento conta,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - solicitacao,w2 - rendimento conta,w3 - valor de rendimento nao bate,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Reclamação
+w1 - duvida,w2 - rendimento conta,w3 - duvidas rendimento conta,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - investimento,w3 - duvidas investimento separar dinheiro,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - investimento,w3 - duvidas investimento cdb pre,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - investimento,w3 - como resgatar investimento cdb pre antes da data,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - investimento,w3 - como resgatar investimento separar dinheiro antes da data,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - investimento,w3 - valor de investimento separar dinheiro nao bate,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - investimento,w3 - investimento fora do brasil com outras moedas,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - financeira,w3 - como fazer resgate da aplicação will financeira,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - financeira,w3 - como acessar nota de aplicação will financeira,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Solicitação
+w1 - duvida,w2 - financeira,w3 - como acessar extrato das aplicações will financeira,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+,,w3 - estorno fatura compra cancelada apos 24h,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+bot,bot will - conta pura (3),b3 - duvida investimento cdi,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+bot,bot will - conta pura (3),b3 - duvidas investimento cdb pre,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+bot,bot will - conta pura (3),b3 - duvidas investimento separar dinheiro,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - investimento,w3 - valor de investimento cdb pre nao bate,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - investimento,w3 - quando tera investimento,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+,,n3 - redimentos,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+bot,bot will - mapa,b3 - duvida investimento,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+bot,bot will - mapa,,,,,,,
+,b3 - como o dinheiro rende na conta,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida,
+intent,informe de rendimentos,wb-ir,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Solicitação
+intent,rendimento da conta e investimentos,wb-rci,Conta,Investments,Investments,Gestão do Bolso/Rendimento Conta,Não,Dúvida
+w1 - duvida,w2 - cartao de credito virtual,w3 - duvida googlepay,Cartão,Ativação,Ativação,Google pay,Não,Dúvida
+w1 - duvida,w2 - cartao de credito fisico,w3 - googlepay,Cartão,Ativação,Ativação,Google pay,Não,Dúvida
+w1 - duvida,w2 - cartao de credito fisico,w3 - qual tarifa anuidade cartao,Cartão,Compra,Compra,Informações sobre cartão,Não,Dúvida
+,,n3 - valor_total_devido,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Dúvida
+,,n3 - nao entendi encargos por atraso,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Dúvida
+,,n3 - tarifas_e_encargos,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Reclamação
+,,n3 - fatura_por_e-mail,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Solicitação
+,,n3 - nao entendi encargos parcelamento,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Dúvida
+,,n3 - nao entendi parcela compra,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Dúvida
+,,n3 - recebimento_boleto_fatura,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Solicitação
+w1 - solicitacao,w2 - fatura,w3 - solicitar fatura will por e-mail,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Solicitação
+w1 - duvida,w2 - pagamento de fatura,w3 - juros e encargos de pagamento de fatura,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Dúvida
+w1 - solicitacao,w2 - fatura,w3 - solicitar fatura pag por e-mail,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Solicitação
+w1 - duvida,w2 - fatura,w3 - qual valor total geral devido,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - nao entendi parcela compra,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - qual valor total devido da fatura,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - duvidas faturas pag no will,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - duvida email fechamento fatura menor que 5 reais,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Dúvida
+w1 - solicitacao,w2 - fatura,w3 - fatura por e-mail,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Solicitação
+w1 - duvida,w2 - fatura,w3 - valor minimo da fatura,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - vencimento feriado,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Dúvida
+w1 - solicitacao,w2 - migracao pag will,w3 - cliente will quer historico da fatura pag,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Solicitação
+w1 - solicitacao,w2 - migracao pag will,w3 - cliente will quer contestar fatura pag,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Reclamação
+w1 - solicitacao,w2 - fatura,w3 - solicitar fatura por e-mail,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Solicitação
+w1 - duvida,w2 - pagamento de fatura,w3 - qual valor total devido,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Dúvida
+w1 - problema,w2 - pagamento de fatura,w3 - resultado analise de fatura,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Solicitação
+,,n3 - nao_entendi_minha_fatura,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Dúvida
+,,w3 - duvida - fatura por e-mail,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Solicitação
+,,w3 - problema - fatura por e-mail,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Solicitação
+bot,,q3 - fatura,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Solicitação
+intent,contestacao de fatura,wb-cfa,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Reclamação
+intent,duvidas fatura e pagamento,wb-dfp,Cartão,Pagamento,Pagamento,Informações sobre fatura,Não,Solicitação
+,,n3 - duplicada_no_pag,Cartão,Compra,Compra,Lançamentos duplicados,Não,Reclamação
+,,n3 - duplicada_estabelecimento,Cartão,Compra,Compra,Lançamentos duplicados,Não,Problema
+,,n3 - baixa_fatura_duplicada,Cartão,Compra,Compra,Lançamentos duplicados,Não,Reclamação
+,,n3 - dados duplicados,Cartão,Compra,Compra,Lançamentos duplicados,Sim,Problema
+w1 - problema,w2 - fatura,w3 - problema compra duplicada,Cartão,Compra,Compra,Lançamentos duplicados,Não,Problema
+,,w3 - problema - compra duplicada,Cartão,Compra,Compra,Lançamentos duplicados,Não,Problema
+,,w3 - duvida - compra duplicada,Cartão,Compra,Compra,Lançamentos duplicados,Não,Problema
+intent,compra duplicada,wb-cdu,Cartão,Compra,Compra,Lançamentos duplicados,Não,Problema
+w1 - duvida,w2 - institucional,w3 - como indicar amigos,Cartão,Aquisição,Aquisição,Member Get Member (MGM),Não,Dúvida
+,,n3 - nao entendi soma da fatura,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+,,n3 - nao entendi credito provisorio,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+,,n3 - nao entendi credito parcelamento,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+,,n3 - credito_indevido,Cartão,Compra,Compra,Não entendimento fatura,Não,Reclamação
+,,n3 - nao entendi encargos ted titulo saque,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+,,n3 - nao entendi estorno parcial,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - nao entendi minha fatura,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - nao entendi encargos por atraso,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+w1 - solicitacao,w2 - backoffice,w3 - estorno de encargos,Cartão,Compra,Compra,Não entendimento fatura,Não,Reclamação
+w1 - duvida,w2 - fatura,w3 - nao entendi soma da fatura,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+w1 - problema,w2 - fatura,w3 - estorno de encargos lancados indevidamente,Cartão,Compra,Compra,Não entendimento fatura,Não,Reclamação
+w1 - duvida,w2 - cartao de credito fisico,w3 - duvidas sobre o historico de compras,Cartão,Compra,Compra,Não entendimento fatura,Não,Reclamação
+w1 - duvida,w2 - fatura,w3 - nao entendi credito provisorio,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - nao entendi encargos parcelamento,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - nao entendi estorno parcial,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - duvida sobre compra duplicada com horarios distintos,Cartão,Compra,Compra,Não entendimento fatura,Não,Reclamação
+w1 - duvida,w2 - fatura,w3 - nao entendi credito parcelamento,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+w1 - solicitacao,w2 - backoffice,w3 - credito indevido,Cartão,Compra,Compra,Não entendimento fatura,Não,Problema
+w1 - duvida,w2 - fatura,w3 - nao entendi encargos servicos no credito,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+,,n3 - erro_juros_indevido,Cartão,Compra,Compra,Não entendimento fatura,Não,Problema
+bot,,b3 - estorno de encargos,Cartão,Compra,Compra,Não entendimento fatura,Não,Reclamação
+,,w3 - duvida - tarifas e encargos atraso,Cartão,Pagamento,Pagamento,Não entendimento fatura,Não,Dúvida
+,,w3 - duvida - valor total da fatura,Cartão,Pagamento,Pagamento,Não entendimento fatura,Não,Dúvida
+,,w3 - duvida - credito provisorio,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+,,w3 - duvida - tarifas e encargos parcelamento,Cartão,Compra,Compra,Não entendimento fatura,Não,Dúvida
+,,n3 - nao_reconhece_compra_online,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+,,n3 - nao_reconhece_compra_presencial,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+,,n3 - compra_reprocessada,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Não,Reclamação
+,,n3 - compra_reconhecida,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+,,n3 - nao_reconhece_compra - cartao_perdido,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+,,n3 - nao_reconhece_compra - cartao_roubado,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+,,n3 - duvida_seguranca,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+w1 - solicitacao,w2 - fraude,w3 - nao reconhece compra online,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+w1 - solicitacao,w2 - fraude,w3 - nao reconhece compra presencial contactless,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+w1 - reclamacao,w2 - fraude,w3 - nao reconhece compra online cartao virtual,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+w1 - solicitacao,w2 - fraude,w3 - nao reconhece compra presencial,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+w1 - problema,w2 - fraude,w3 - nao reconhece notificacao de compra,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+w1 - problema,w2 - fraude,w3 - nao reconhece compra recorrente na fatura,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+w1 - reclamacao,w2 - fraude,w3 - nao reconhece compra,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+,,w3 - nao reconheco transacao que tem no extrato,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Reclamação
+bot,bot will - fraude (1),b3 - não reconhece compra - volta depois,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Dúvida
+bot,bot will - fraude (01),b3 - não reconhece compra,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Dúvida
+bot,,q3 - fraude,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+,,w3 - compra recusada por prilex com fraude,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Dúvida
+intent,nao reconhecimento de compra,wb-nrc,Cartão,Compra,Compra,Não reconhecimento de compra no crédito,Sim,Problema
+w1 - solicitacao,w2 - extrato e saldo,w3 - nao reconheço transacao que tem no extrato,Conta,Banking Transfers,Banking Transfers,Não reconhecimento de compra no débito,Sim,Reclamação
+w1 - reclamacao,w2 - fraude,w3 - nao reconhece PIX,Conta,Pix,Pix,Não reconhecimento de PIX,Sim,Problema
+w1 - solicitacao,w2 - fraude,w3 - bloqueio de operacao titulo ted pix,Conta,Pix,Pix,Não reconhecimento de PIX,Sim,Problema
+,,w3 - bloqueio de operacao titulo ted pix prev fraude,Conta,Pix,Pix,Não reconhecimento de PIX,Sim,Problema
+w1 - reclamacao,w2 - fraude,w3 - nao reconhece pix,Conta,Pix,Pix,Não reconhecimento de PIX,Sim,Problema
+,,n3 - nao_reconhece_titulo_|_ted,Conta,Banking Transfers,Banking Transfers,Não reconhecimento de recarga/título/ted,Sim,Problema
+,,n3 - cancelamento_recarga,Conta,Banking Transfers,Banking Transfers,Não reconhecimento de recarga/título/ted,Não,Solicitação
+w1 - solicitacao,w2 - fraude,w3 - nao reconhece titulo ted,Conta,Banking Transfers,Banking Transfers,Não reconhecimento de recarga/título/ted,Sim,Problema
+w1 - reclamacao,w2 - fraude,w3 - nao reconhece título ted e recarga,Conta,Banking Transfers,Banking Transfers,Não reconhecimento de recarga/título/ted,Sim,Problema
+,,w3 - nao reconhece titulo ted e recarga,Conta,Banking Transfers,Banking Transfers,Não reconhecimento de recarga/título/ted,Sim,Problema
+,,n3 - desbloqueio_pagamento_entrada,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Dúvida
+,,n3 - recusa_a_pagar_o_debito,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Reclamação
+,,n3 - negociar_fatura,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Solicitação
+,,n3 - negociar_divida_com_vencimentos_futuros,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Solicitação
+,,n3 - duvidas_acordo_com_kitei,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Dúvida
+,,n3 - negociacao_nao_efetivada,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Reclamação
+,,w3 – nao negociado – cliente em fechamento de fatura,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Solicitação
+w1 - solicitacao,w2 - pagamento de fatura,w3 - renegociar fatura,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Solicitação
+w1 - problema,w2 - cobranca,w3 - desbloqueio do pagamento entrada,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Dúvida
+w1 - solicitacao,w2 - cobranca,w3 - recusa a pagar o debito em atraso,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Reclamação
+bot,bot will - cobrança (3),b3 - volta depois para negociar,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Dúvida
+,,n3 - sem_proposta_–_próximo_ao_fechamento_da_fatura,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Dúvida
+,,n3 - botao_negociacao,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Reclamação
+,,n3 - parcelamento_total_fatura_solicitacao,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Solicitação
+bot,bot will - cobrança on,b3 - negociacao pelo site,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Dúvida
+bot,bot will - limite de crédito (2),b3 - negociacao pelo app,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Dúvida
+bot,bot will - cobrança on,b3 - cliente sem negociacao,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Dúvida
+,,w3 - duvida - desbloqueio do pagamento entrada,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Dúvida
+bot,,q3 - negociação,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Dúvida
+intent,negociacao,wb-nego,Crédito e Cobrança,Acordos,Acordos,Negociação,Não,Dúvida
+w1 - duvida,w2 - institucional,w3 - quero ser um parceiro will,Marketplace,Marketplace,Marketplace,Novos Parceiros,Não,Dúvida
+w1 - duvida,w2 - novas funcionalidades,w3 - novas funcionalidades,Conta,Diversificação,Diversificação,Novos Produtos,Não,Dúvida
+,,w3 - overlimit,Crédito e Cobrança,Limite de crédito,Limite de crédito,Overlimit,Não,Dúvida
+,,w3 - overlimit | valores disponiveis ou gastos,Crédito e Cobrança,Limite de crédito,Limite de crédito,Overlimit,Não,Dúvida
+,,w3 - overlimit | habilitar/desabilitar,Crédito e Cobrança,Limite de crédito,Limite de crédito,Overlimit,Não,Solicitação
+,,w3 - overlimit | desabilitar/reabilitar,Crédito e Cobrança,Limite de crédito,Limite de crédito,Overlimit,Não,Solicitação
+,,n3 - erro_pagamento_de_titulos,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Reclamação
+,,n3 - como_fazer_pagamentos_de_titulos,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+,,n3 - cancelamento_de_titulo,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Solicitação
+,,n3 - compensacao_bancaria_titulo,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+,,n3 - como_acessar_comprovante,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+,,n3 - pagamento_identificado_titulo,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+,,n3 - debito_automatico,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+,,n3 - erro_titulo_outros_bancos,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Reclamação
+,,n3 - erro_pagamento_convênio,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Problema
+,,n3 - pagamento_titulo_convênio_duplicado,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+,,n3 - pagamento_titulo_outros_bancos_duplicado,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - duvida,w2 - pagamentos,w3 - como pagar boleto com credito,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - duvida,w2 - pagamentos,w3 - como pagar titulo boleto no app,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - problema,w2 - pagamentos,w3 - erro app pagar titulo boleto,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Problema
+w1 - solicitacao,w2 - pagamentos,w3 - paguei titulo 2 vezes,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - solicitacao,w2 - pagamentos,w3 - paguei titulo mas continua aberto,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - duvida,w2 - pagamentos,w3 - como pagar outro valor no titulo,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - duvida,w2 - novas funcionalidades,w3 - pagamento titulo boleto,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - duvida,w2 - pagamentos,w3 - quais as tarifas e encargos para pagamento,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - sugestao,w2 - pagamentos,w3 - quero outras formas de pagamento,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - duvida,w2 - pagamentos,w3 - prazo para compensacao do pagamento,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - solicitacao,w2 - cancelamento,w3 - quero cancelar um pagamento de titulo,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - solicitacao,w2 - pagamentos,w3 - prazo para compensacao titulo,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - duvida,w2 - pagamentos,w3 - quais as tarifas e encargos pagar titulo,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - problema,w2 - pagamentos,w3 - erro app pagar titulo boleto no credito,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Problema
+w1 - problema,w2 - pagamentos,w3 - como pagar outro valor no titulo no credito,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - problema,w2 - pagamentos,w3 - quero outras formas pagar titulo no credito,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - problema,w2 - pagamentos,w3 - prazo para compensacao titulo no credito,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - problema,w2 - pagamentos,w3 - quero cancelar um pagamento de titulo no credito,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - solicitacao,w2 - pagamentos,w3 - quero outras formas pagar titulo,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+w1 - problema,w2 - pagamentos,w3 - erro ao tentar pagar boleto fatura,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Problema
+w1 - duvida,w2 - novas funcionalidades,w3 - quando tera pagamento titulo boleto,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+,,n3 - erro_ao_salvar_comprovante,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Problema
+intent,boleto externo,wb-be,Conta,Banking Transfers,Banking Transfers,Pagamento de Boleto,Não,Dúvida
+,,n3 - compra_parcelada,Cartão,Compra,Compra,Parcelamento de compra,Não,Dúvida
+w1 - solicitacao,w2 - fatura,w3 - quero parcelar compra no app,Cartão,Compra,Compra,Parcelamento de compra,Não,Dúvida
+intent,parcelamento de compra,wb-pco,Cartão,Compra,Compra,Parcelamento de compra,Não,Dúvida
+,,n3 - solicitacao_parcelamento_da_fatura,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Solicitação
+,,n3 - duvidas_parcelamento_e_quitacao,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+,,n3 - parcelamento_da_fatura_aceito,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Solicitação
+,,n3 - parcelamento_total_debito_solicitacao,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Solicitação
+,,n3 - duvidas apos parcelamento cobranca,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+,,n3 - como fazer o parcelamento de fatura,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+,,n3 - duvidas apos parcelamento no app,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+,,n3 - parcelamento_total_debito_aceito,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Solicitação
+,,n3 - parcelamento_de_fatura_nao_efetivado,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Reclamação
+,,n3 - como cancelar o parcelamento,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+w1 - solicitacao,w2 - cobranca,w3 - solicitacao parcelamento fatura cliente em atraso,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Solicitação
+w1 - duvida,w2 - pagamento de fatura,w3 - como fazer o parcelamento de fatura,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - duvidas apos parcelamento,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+w1 - duvida,w2 - cobranca,w3 - duvidas parcelamento ou quitacao,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+w1 - solicitacao,w2 - cobranca,w3 - parcelamento fatura em atraso aceito,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+w1 - problema,w2 - pagamento de fatura,w3 - parcelamento de fatura nao efetivado,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Reclamação
+w1 - duvida,w2 - pagamento de fatura,w3 - como parcelar fatura will em atraso,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - parcelamento confirmado,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - duvida encargo parcelamento,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+w1 - solicitacao,w2 - cobranca,w3 - solicitacao parcelamento fatura cliente em dia,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - duvida sobre o valor parcelado,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como parcelar fatura em atraso,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+w1 - solicitacao,w2 - cobranca,w3 - parcelamento fatura em dia aceito,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+w1 - duvida,w2 - pagamento de fatura,w3 - como parcelar fatura pag,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+w1 - solicitacao,w2 - pagamento de fatura,w3 - solicitar boleto de entrada de parcelamento,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Solicitação
+w1 - solicitacao,w2 - migracao pag will,w3 - cliente will quer parcelar fatura do pag,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Solicitação
+w1 - solicitacao,w2 - pagamento de fatura,w3 - cliente will quer parcelar fatura do pag,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Solicitação
+,,w3 - parcelamento conta pag cancelada,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Solicitação
+bot,bot will - fatura (6 a 16 dias) (1),b3 - como fazer o parcelamento de fatura,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+bot,bot will - logística novo (1),b3 - como parcelar fatura will em atraso,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+,,n3 - como_fazer_o_parcelamento_de_fatura,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+,,n3 - parcelamento_total_fatura_aceito,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+bot,bot will - logística novo (1),b3 - como parcelar fatura em atraso,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+,,w3 - solicitacao - parcelamento conta cancelada,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Solicitação
+,,w3 - duvida - parcelamento aceito,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+,,w3 - problema - parcelamento aceito,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+,,w3 - duvida - encargos de parcelamento,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+,,w3 - problema - encargos de parcelamento,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+,,w3 - duvida - parcelamento,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Dúvida
+,,w3 - problema - parcelamento nao efetivado,Crédito e Cobrança,Acordos,Acordos,Parcelamento de fatura,Não,Reclamação
+,,n3 - riscos 2 nivel pag,Riscos 2 nivel,Riscos 2 nivel,Riscos 2 nivel,Prevenção à Fraude,Sim,Solicitação
+,,n3 - operacoes bloqueadas pag,Riscos 2 nivel,Riscos 2 nivel,Riscos 2 nivel,Prevenção à Fraude,Sim,Reclamação
+,,n3 - relato de infracao pix pag,Riscos 2 nivel,Riscos 2 nivel,Riscos 2 nivel,Prevenção à Fraude,Sim,Reclamação
+,,w3 - riscos 2 nivel will,Riscos 2 nivel,Riscos 2 nivel,Riscos 2 nivel,Prevenção à Fraude,Sim,Dúvida
+,,w3 - relato de infracao pix will,Riscos 2 nivel,Riscos 2 nivel,Riscos 2 nivel,Prevenção à Fraude,Sim,Reclamação
+,,n3 - primeiro_desbloqueio,Cartão,Ativação,Ativação,Primeiro Desbloqueio de cartão,Não,Solicitação
+w1 - duvida,w2 - cartao de credito virtual,w3 - primeiro desbloqueio cartao,Cartão,Ativação,Ativação,Primeiro Desbloqueio de cartão,Sim,Dúvida
+w1 - problema,w2 - cartao de credito fisico,w3 - problema primeiro desbloqueio cartao fisico,Cartão,Ativação,Ativação,Primeiro Desbloqueio de cartão,Não,Problema
+w1 - duvida,w2 - cartao de credito fisico,w3 - primeiro desbloqueio,Cartão,Ativação,Ativação,Primeiro Desbloqueio de cartão,Sim,Dúvida
+,,w3 - primeiro desbloqueio cartao virtual,Cartão,Ativação,Ativação,Primeiro Desbloqueio de cartão,Sim,Dúvida
+,,n3 - alteração de cpf da proposta,Cartão,Aquisição,Aquisição,Problema de Cadastro da proposta,Não,Solicitação
+w1 - problema,w2 - proposta,w3 - nao reconhece proposta,Cartão,Aquisição,Aquisição,Problema de Cadastro da proposta,Não,Problema
+w1 - problema,w2 - proposta,w3- erro cadastro web,Cartão,Aquisição,Aquisição,Problema de Cadastro da proposta,Não,Problema
+w1 - problema,w2 - proposta,w3 - página fora do ar cadastro web,Cartão,Aquisição,Aquisição,Problema de Cadastro da proposta,Não,Problema
+,,n3 - cartao_em_producao,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+,,n3 - ocorrência_flashcourier,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Problema
+,,n3 - atraso_producao_cartao,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Problema
+,,n3 - dificil_acesso,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Reclamação
+,,n3 - como_e_feita_a_entrega,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+,,n3 - flash_fora_do_ar,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+w1 - solicitacao,w2 - logistica,w3 - reenvio do cartao primeira entrega,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+w1 - problema,w2 - logistica,w3  - cartão entregue para outra pessoa,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Problema
+w1 - problema,w2 - logistica,w3 - cartão entregue para outra pessoa,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Problema
+w1 - duvida,w2 - logistica,w3 - cartao em producao,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+w1 - solicitacao,w2 - logistica,w3 - reenvio do cartao pedido de 2 via,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+w1 - reclamacao,w2 - logistica,w3 - falha entrega do cartao flash,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+w1 - duvida,w2 - logistica,w3 - como acontece a entrega do cartao,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+w1 - reclamacao,w2 - logistica,w3 - falha entrega do cartao correios,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+w1- problema,w2 - logistica,w3 - problema na entrega ocorrencia flashcourier,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Problema
+,,w3 - problema na entrega ocorrencia total express,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Problema
+,,w3 - problema na entrega ocorrencia mobi	,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Problema
+,,w3 - acareacao,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Problema
+w1 - problema,w2 - logistica,w3 - cliente recebeu o cartão de outra pessoa,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Problema
+w1 - problema,w2 - logistica,w3 - 2 via rastreio sem atualização,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Reclamação
+w1 - problema,w2 - logistica,w3 - erro atualizacao do rastreio,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Problema
+w1 - reclamacao,w2 - logistica,w3 - embalagem cartao danificada,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Reclamação
+w1 - solicitacao,w2 - logistica,w3 - 2 via nao produzido,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Solicitação
+w1 - problema,w2 - logistica,w3 - acompanhamento sem atualizacao apos reenvio,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Reclamação
+w1 - problema,w2 - logistica,w3 - falha envio comunicacao logistica,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+w1 - problema,w2 - logistica,w3 - cliente recebeu o cartao de outra pessoa,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Problema
+w1 - solicitacao,w2 - logistica,w3 - 2 via rastreio sem atualizacao,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Problema
+w1 - duvida,w2 - migracao pag will,w3 - recebimento plastico will,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+bot,bot will - logística novo (3),b3 - como acontece a entrega do cartao,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+bot,bot will - logística novo (3),b3 - reenvio do cartao pedido de 2 via,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+bot,bot will - logística na cascata,b3 - cartao em producao,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+intent,problemas com a entrega do cartao,wb-pcec,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+,,n3 - nao_autorizada_no_pag,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+,,n3 - nao_autorizada_estabelecimento,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+,,n3 - aviso_compra,Cartão,Compra,Compra,Problemas com a compra,Não,Dúvida
+,,n3 - nao_autorizada_pela_master,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+,,n3 - nao_autorizada_pv_bloqueado,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+,,n3 - autorizacao_compra,Cartão,Compra,Compra,Problemas com a compra,Não,Dúvida
+,,n3 - bloqueio_compras_online,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+,,n3 - duplicidade_de_transmissao,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+,,n3 - instabilidade_cartao,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+,,n3 - sms_de_compra_nao_chega,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+w1 - problema,w2 - cartao de credito fisico,w3 - compra nao autorizada,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+w1 - problema,w2 - cartao de credito virtual,w3 - compra nao autorizada,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+w1 - problema,w2 - cartao de credito virtual,w3 - compra online nao autorizada,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+w1 - duvida,w2 - fatura,w3 - compra reconhecida,Cartão,Compra,Compra,Problemas com a compra,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - compra reconhecida,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+w1 - problema,w2 - cartao de credito virtual,w3 - nao recebe notificacao de compra,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+w1 - duvida,w2 - cartao de credito virtual,w3 - seguranca compra online,Cartão,Compra,Compra,Problemas com a compra,Não,Dúvida
+w1 - problema,w2 - cartao de credito fisico,w3 - bloqueio compras online,Cartão,Compra,Compra,Problemas com a compra,Não,Dúvida
+w1 - duvida,w2 - cartao de credito virtual,w3 - compra estabelecimento nao credenciado,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+w1 - problema,w2 - cartao de credito fisico,w3 - sms de compra nao chega,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+w1 - duvida,w2 - fatura,w3 - melhor dia de compra,Cartão,Compra,Compra,Problemas com a compra,Não,Dúvida
+,,w3 - resultado analise de cartao de credito fisico,Cartão,Compra,Compra,Problemas com a compra,Não,Solicitação
+bot,bot will - fraude (1),b3 - compra online nao autorizada,Cartão,Compra,Compra,Problemas com a compra,Não,Dúvida
+,,n3 - nao_autorizada_will,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+,,w3 - problema - compra não autorizada online,Cartão,Compra,Compra,Problemas com a compra,Não,Problema
+,,w3 - problema - compra não autorizada presencial,Cartão,Compra,Compra,Problemas com a compra,Não,Problema
+,,w3 - problema - notificacao de compra,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+,,w3 - duvida - notificacao de compra,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+,,w3 - duvida - segurança compras,Cartão,Compra,Compra,Problemas com a compra,Não,Dúvida
+,,w3 - duvida - melhor dia de compra,Cartão,Compra,Compra,Problemas com a compra,Não,Dúvida
+,,w3 - compra recusada por prilex sem fraude,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+intent,compra negada,wb-cn,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+intent,problemas com compras no melhor dia,wb-pcmd,Cartão,Compra,Compra,Problemas com a compra,Não,Reclamação
+,,n3 - como_rastrear_o_cartao,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+,,n3 - cartao_entregue,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+,,n3 - 2_via_desconhece_recebimento,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Solicitação
+,,n3 - prazo_entrega_cartao,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+,,n3 - 2 via cartao amarelo enviada,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Solicitação
+,,n3 - aguardando_retirada_nos_correios,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+,,n3 - 2_via _ extraviado/sinistrado,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Solicitação
+,,n3 - 2_via_retencao,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Solicitação
+,,n3 - 2 via acompanhamento sem atualização,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Solicitação
+,,n3 - 2_via_debito,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Solicitação
+,,n3 - acompanhamento sem atualização,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Reclamação
+,,n3 - acompanhamento sem atualização apos reenvio,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+w1 - duvida,w2 - logistica,w3 - como acompanho meu rastreio,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+w1 - duvida,w2 - logistica,w3 - cartao entregue,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+w1 - duvida,w2 - logistica,w3 - prazo entrega cartao,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+w1 - duvida,w2 - logistica,w3 - aguardando retirada nos correios,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+w1 - problema,w2 - logistica,w3 - acompanhamento sem atualizacao,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Problema
+w1 - problema,w2 - logistica,w3 - erro recebimento do rastreio,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Problema
+w1 - duvida,w2 - cartao de credito fisico,w3 - duvidas apos 2 via,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+w1 - duvida,w2 - logistica,w3 - duvida sobre rastreio,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+bot,bot will - logística novo (2),b3 - aguardando retirada nos correios,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+bot,bot will - logística novo (2),b3 - como acompanho meu rastreio,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+bot,bot will - logística novo (3),b3 - duvida endereco entrega cartao,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+bot,bot will - logística novo (2),b3 - prazo entrega cartao,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+,,n3 - rastreio_sem_atualização_apos_reenvio,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Reclamação
+,,n3 - rastreio_sem_atualizacao,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Reclamação
+,,n3 - 2_via _ rastreio_sem_atualizacao,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Reclamação
+bot,bot will - logística na cascata,b3 - erro recebimento do rastreio,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Reclamação
+intent,rastreio,wb-ras,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+w1 - problema,w2 - proposta,w3 - reabertura de conta cancelada pag,Cartão,Aprovação,Aprovação,Reabertura de conta,Não,Solicitação
+,,n3 - pix não compensado,Conta,Pix,Pix,Recebimento de PIX,Não,Problema
+,,n3 - recebimento pix,Conta,Pix,Pix,Recebimento de PIX,Não,Dúvida
+w1 - problema,w2 - pix,w3 - pix nao compensado will,Conta,Pix,Pix,Recebimento de PIX,Não,Problema
+bot,bot will - pix erro,b3 - pix nao caiu,Conta,Pix,Pix,Recebimento de PIX,Não,Dúvida
+intent,recebimento de pix,wb-rpi,Conta,Pix,Pix,Recebimento de PIX,Não,Dúvida
+,,n3 - recebimento_ted,Conta,Banking Transfers,Banking Transfers,Recebimento de TED,Não,Dúvida
+w1 - problema,w2 - ted,w3 - erro recebimento ted,Conta,Banking Transfers,Banking Transfers,Recebimento de TED,Não,Problema
+,,n3 - retorno_contestacao,Fraude,Fraude,Fraude,Resultado análise de fraude,Sim,Reclamação
+w1 - solicitacao,w2 - fraude,w3 - resultado analise prev fraude,Fraude,Fraude,Fraude,Resultado análise de fraude,Sim,Problema
+w1 - solicitacao,w2 - fraude,w3 - resultado analise,Fraude,Fraude,Fraude,Resultado análise de fraude,Não,Solicitação
+w1 - solicitacao,w2 - fraude,w3 - resultado analise de fraude,Fraude,Fraude,Fraude,Resultado análise de fraude,Sim,Problema
+intent,resultado da analise,wb-ran,Fraude,Fraude,Fraude,Resultado análise de fraude,Não,Solicitação
+,,n3 - resultado_analise,Cartão,Aprovação,Aprovação,Resultado da Proposta,Sim,Problema
+w1 - solicitacao,w2 - backoffice,w3 - resultado de analise,Cartão,Aprovação,Aprovação,Resultado da Proposta,Não,Solicitação
+w1 - duvida,w2 - proposta,w3 - reclamacao proposta reprovada,Cartão,Aprovação,Aprovação,Resultado da Proposta,Não,Reclamação
+w1 - problema,w2 - proposta,w3 - resultado proposta dentro do prazo,Cartão,Aprovação,Aprovação,Resultado da Proposta,Não,Solicitação
+w1 - duvida,w2 - proposta,w3 - resultado proposta fora do prazo,Cartão,Aprovação,Aprovação,Resultado da Proposta,Não,Solicitação
+w1 - duvida,w2 - proposta,w3 - prazo nova proposta,Cartão,Aprovação,Aprovação,Resultado da Proposta,Não,Dúvida
+w1 - problema,w2 - cadastro,w3 - erro cadastro outros,Cartão,Aprovação,Aprovação,Resultado da Proposta,Não,Reclamação
+w1 - reclamacao,w2 - fraude,w3 - cliente nao aceita resultado de analise,Cartão,Aprovação,Aprovação,Resultado da Proposta,Não,Problema
+,,w3 - resultado analise de cadastro,Cartão,Aprovação,Aprovação,Resultado da Proposta,Não,Solicitação
+,,n3 - problema campanha aumento de limite,Cartão,Aprovação,Aprovação,Resultado da Proposta,Não,Reclamação
+,,n3 - campanhas,Cartão,Aprovação,Aprovação,Resultado da Proposta,Não,Reclamação
+,,n3 - samsungpay,Cartão,Ativação,Ativação,Samsung pay,Não,Dúvida
+w1 - duvida,w2 - cartao de credito virtual,w3 - duvida samsungpay,Cartão,Ativação,Ativação,Samsung pay,Não,Dúvida
+w1 - duvida,w2 - cartao de credito fisico,w3 - samsungpay,Cartão,Ativação,Ativação,Samsung pay,Não,Dúvida
+,,n3 - 2_via_cartao_perdido,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+,,n3 - 2_via_cartao_danificado,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+,,n3 - 2_via_outros,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+,,n3 - 2_via _ fraude,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+,,n3 - 2_via_cartao_roubado,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+,,n3 - 2_via_desistencia,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+,,n3 - reenvio_de_cartao,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+,,n3 - 2_via_cartao_vencido,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+,,n3 - duvidas_apos_2_via,Cartão,Ativação,Ativação,Segunda via cartão,Não,Dúvida
+,,n3 - 2_via_nao_produzido,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+,,n3 - 2 via cartao amarelo solicitada,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+,,n3 - 2_via_nao_solicitada,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+,,n3 - 2_via - destruido,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+,,n3 - recebimento plastico will,Cartão,Ativação,Ativação,Segunda via cartão,Não,Dúvida
+,,n3 - timeline_logistica,Cartão,Ativação,Ativação,Segunda via cartão,Não,Dúvida
+,,n3 - carta berço danificada,Cartão,Ativação,Ativação,Segunda via cartão,Não,Reclamação
+w1 - solicitacao,w2 - logistica,w3 - 2 via cartao perdido,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+w1 - solicitacao,w2 - logistica,w3 - 2 via outros,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+w1 - solicitacao,w2 - logistica,w3 - 2 via extraviado ou sinistrado,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+w1 - solicitacao,w2 - logistica,w3 - 2 via cartao danificado,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+w1 - solicitacao,w2 - logistica,w3 - 2 via destruido,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+w1 - solicitacao,w2 - logistica,w3 - 2 via cartao roubado,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+w1 - solicitacao,w2 - logistica,w3 - 2 via desconhece recebimento,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+w1 - duvida,w2 - logistica,w3 - duvida apos o reenvio do cartao,Cartão,Ativação,Ativação,Problema no recebimento do cartão,Não,Dúvida
+w1 - solicitacao,w2 - logistica,w3 - solicitacao segunda via cliente migrado,Cartão,Ativação,Ativação,Segunda via cartão,Não,Problema
+w1 - solicitacao,w2 - logistica,w3 - pedido 2 via do cartao,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+w1 - duvida,w2 - cartao de credito fisico,w3 - duvidas apos 2 via cartao,Cartão,Ativação,Ativação,Segunda via cartão,Não,Dúvida
+w1 - solicitacao,w2 - logistica,w3 - 2 via nao solicitada,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+w1 - problema,,w3 - erro cvv segunda via,Cartão,Ativação,Ativação,Segunda via cartão,Não,Problema
+w1 - solicitacao,w2 - logistica,w3 - 2 via cartao fraudado,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+w1 - solicitacao,w2 - logistica,w3 - 2 via cartao vencido,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+w1 - solicitacao,w2 - logistica,w3 - 2 via desistencia,Cartão,Ativação,Ativação,Segunda via cartão,Não,Dúvida
+w1 - problema,w2 - logistica,w3 - erro ao solicitar segunda via,Cartão,Ativação,Ativação,Segunda via cartão,Não,Problema
+bot,bot will - logística novo (3),b3 - 2 via extraviado ou sinistrado,Cartão,Ativação,Ativação,Segunda via cartão,Não,Dúvida
+bot,bot will - logística novo (3),b3 - duvidas 2 via cartao,Cartão,Ativação,Ativação,Segunda via cartão,Não,Dúvida
+w1 - duvida,w2 - migracao pag will,w3 - recebimento plastico migracao pag will,Cartão,Ativação,Ativação,Segunda via cartão,Não,Dúvida
+,,n3 - 2_via _ problema_no_chip,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+,,n3 - 2_via_cartao_quebrado,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+bot,,b3 - falha entrega do cartao,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+bot,,b3- 2 via cartao perdido,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+bot,,q3 - logística,Cartão,Ativação,Ativação,Rastreio de cartão,Não,Dúvida
+bot,,q3 - segunda via,Cartão,Ativação,Ativação,Segunda via cartão,Não,Problema
+,,w3 - bloqueio erro cvv,Cartão,Ativação,Ativação,Primeiro Desbloqueio de cartão,Sim,Solicitação
+intent,roubo de cartao ou dispositivo,wb-rcd,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+intent,segunda via,wb-svi,Cartão,Ativação,Ativação,Segunda via cartão,Não,Solicitação
+,,n3 - senha_de_acesso_ao_app,Conta,Acquisition,Acquisition,Senha da conta,Não,Solicitação
+w1 - solicitacao,w2 - cartao debito,w3 - desbloquear minha senha no debito,Conta,Acquisition,Acquisition,Senha da conta,Não,Solicitação
+w1 - solicitacao,w2 - saque,w3 - quero bloquear senha para saque,Conta,Acquisition,Acquisition,Senha da conta,Não,Solicitação
+w1 - solicitacao,w2 - cartao debito,w3 - bloquear a minha senha do debito,Conta,Acquisition,Acquisition,Senha da conta,Não,Solicitação
+w1 - solicitacao,w2 - saque,w3 - quero desbloquear senha para saque,Conta,Acquisition,Acquisition,Senha da conta,Não,Solicitação
+,,n3 - _senha_invalida,Conta,Acquisition,Acquisition,Senha da conta,Não,Solicitação
+bot,,q3 - senha do cartão,Conta,Acquisition,Acquisition,Senha da conta,Não,Dúvida
+,,n3 - pendência_de_cadastro,Cartão,Aprovação,Aprovação,Status da Proposta,Não,Solicitação
+w1 - duvida,w2 - cadastro,w3 - status cadastro,Cartão,Aprovação,Aprovação,Status da Proposta,Não,Dúvida
+w1 - duvida,w2 - proposta,w3 - proposta status pendente,Cartão,Aprovação,Aprovação,Status da Proposta,Não,Dúvida
+,,n3 - validacao_3ds,Fraude,Fraude,Fraude,Token 3DS,Não,Dúvida
+w1 - problema,w2 - fraude,w3 - nao recebe token 3ds,Fraude,Fraude,Fraude,Token 3DS,Não,Reclamação
+w1 - duvida,w2 - fraude,w3 - duvidas sobre token 3ds,Fraude,Fraude,Fraude,Token 3DS,Não,Dúvida
+,,n3 - nao recebimento do link,Cartão,Aquisição,Aquisição,Token E-mail,Não,Reclamação
+,,n3 - nao_recebe_token_e-mail,Cartão,Aquisição,Aquisição,Token E-mail,Não,Problema
+w1 - problema,w2 - acesso,w3 - nao recebeu token email acesso,Cartão,Aquisição,Aquisição,Token E-mail,Não,Problema
+w1 - duvida,w2 - cadastro,w3 - duvidas sobre token,Cartão,Aquisição,Aquisição,Token E-mail,Não,Dúvida
+w1 - problema,w2 - proposta,w3 - nao recebeu token email proposta,Cartão,Aquisição,Aquisição,Token E-mail,Não,Reclamação
+w1 - problema,w2 - cadastro,w3 - nao recebeu token email,Cartão,Aquisição,Aquisição,Token E-mail,Não,Reclamação
+w1 - problema,w2 - cadastro,w3 - nao recebeu token e-mail,Cartão,Aquisição,Aquisição,Token E-mail,Não,Reclamação
+intent,erro ao receber token - email,wb-erte,Cartão,Aquisição,Aquisição,Token E-mail,Não,Reclamação
+,,n3 - nao_recebe_token_sms,Cartão,Aquisição,Aquisição,Token SMS,Não,Reclamação
+,,n3 - duvidas_sobre_token,Cartão,Aquisição,Aquisição,Token SMS,Não,Dúvida
+,,n3 - erro_solicitar_senha,Cartão,Aquisição,Aquisição,Token SMS,Não,Reclamação
+w1 - problema,w2 - acesso,w3 - nao recebeu token sms acesso,Cartão,Aquisição,Aquisição,Token SMS,Não,Problema
+w1 - problema,w2 - proposta,w3 - nao recebeu token sms proposta,Cartão,Aquisição,Aquisição,Token SMS,Não,Problema
+w1 - problema,w2 - cadastro,w3 - nao recebeu token sms,Cartão,Aquisição,Aquisição,Token SMS,Não,Reclamação
+w1 - problema,w2 - acesso,w3 - erro acessar app token,Cartão,Aquisição,Aquisição,Token SMS,Não,Problema
+intent,erro ao receber token - sms,wb-erts,Cartão,Aquisição,Aquisição,Token SMS,Não,Reclamação
+,,n3 - compra nao autorizada debito online,Conta,Banking Transfers,Banking Transfers,Uso do cartão de débito,Não,Reclamação
+,,n3 - compras_cartao_debito,Conta,Banking Transfers,Banking Transfers,Uso do cartão de débito,Não,Dúvida
+,,n3 - auxilio_600,Conta,Banking Transfers,Banking Transfers,Uso do cartão de débito,Não,Dúvida
+w1 - problema,w2 - cartao debito,w3 - compra no debito nao passou,Conta,Banking Transfers,Banking Transfers,Uso do cartão de débito,Não,Reclamação
+w1 - problema,w2 - cartao debito,w3 - compra de debito não passou e valor saiu da conta,Conta,Banking Transfers,Banking Transfers,Uso do cartão de débito,Não,Problema
+w1 - solicitacao,w2 - extrato e saldo,w3 - cancelar valor em lancamento futuro no extrato,Conta,Banking Transfers,Banking Transfers,Uso do cartão de débito,Não,Solicitação
+w1 - problema,w2 - cartao debito,w3 - compra nao autorizada debito online,Conta,Banking Transfers,Banking Transfers,Uso do cartão de débito,Não,Reclamação
+bot,bot will - fraude (1),b3 - compra nao autorizada,Conta,Banking Transfers,Banking Transfers,Uso do cartão de débito,Não,Dúvida
+,,n3 - solicitacao_cartao_debito,Conta,Banking Transfers,Banking Transfers,Uso do cartão de débito,Não,Reclamação
+,,n3 - dispositivo lista restritiva,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Problema
+,,n3 - liberar dispositivo,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Solicitação
+,,w3 - validação novo dispositivo selfie,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Problema
+w1 - duvida,w2 - proposta,w3 - como fazer cadastro app,Fraude,Fraude,Fraude,Validação novo dispositivo,Não,Dúvida
+w1 - problema,w2 - cadastro,w3 - erro enviar documento,Fraude,Fraude,Fraude,Validação novo dispositivo,Não,Solicitação
+w1 - problema,w2 - proposta,w3 - erro enviar documento,Fraude,Fraude,Fraude,Validação novo dispositivo,Não,Solicitação
+w1 - problema,w2 - cadastro,w3 - erro enviar self,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Problema
+w1 - duvida,w2 - fraude,w3 - duvidas validacao novo dispositivo,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Solicitação
+w1 - problema,w2 - acesso,w3 - erro app acessar conta,Fraude,Fraude,Fraude,Validação novo dispositivo,Não,Problema
+w1 - problema,w2 - proposta,w3 - erro enviar selfie,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Problema
+w1 - solicitacao,w2 - fraude,w3 - bloqueio alteracao cadastral,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Reclamação
+w1 - solicitacao,w2 - fraude,w3 -  bloqueio prevencao cartao,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Reclamação
+w1 - solicitacao,w2 - fraude,w3 - bloqueio acesso app,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Problema
+w1 - solicitacao,w2 - fraude,w3 - validacao novo dispositivo selfie,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Solicitação
+w1 - solicitacao,w2 - fraude,w3 - validacao novo dispositivo facial,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Solicitação
+,,w3 - bloqueio acesso app prev fraude,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Problema
+bot,bot will - validar selfie,b3 - validação novo dispositivo selfie,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Dúvida
+w1 - problema,w2 - acesso,w3 - validacao novo dispositivo,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Problema
+w1 - solicitacao,w2 - fraude,w3 - validação novo dispositivo facial,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Solicitação
+w1 - solicitacao,w2 - fraude,w3 - bloqueio prevencao cartao,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Reclamação
+w1 - problema,w2 - acesso,w3 - resultado analise de acesso,Fraude,Fraude,Fraude,Validação novo dispositivo,Não,Problema
+,,n3 - erro_liberar_o_dispositivo,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Problema
+bot,,q3 - validação de dispositivo,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Solicitação
+,,n3 - prova de vida,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Problema
+intent,validacao de disposivo e erro ao acessar app,wb-vdea,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Solicitação
+,,n3 - duvidas_após_alterar_data_de_vencimento,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+,,n3 - como_alterar_a_data_de_vencimento,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+,,n3 - detalhes_compra,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+,,n3 - vencimento_feriado,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+,,n3 - alteracao_de_vencimento_negada,Cartão,Compra,Compra,Vencimento fatura,Não,Reclamação
+,,n3 - dia_de_vencimento,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+,,n3 - erro_alterar_vencimento,Cartão,Compra,Compra,Vencimento fatura,Não,Reclamação
+,,n3 - data_lancamento_conta,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+,,n3 - erro_data_boleto,Cartão,Compra,Compra,Vencimento fatura,Não,Reclamação
+,,n3 - dia_de_vencimento_excecao,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - alterar vencimento fatura,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - qual melhor dia de compra,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - duvidas apos alterar o vencimento da fatura,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+w1 - problema,w1 - fatura,w3 - problema parcela de compra antecipada,Cartão,Compra,Compra,Vencimento fatura,Não,Problema
+w1 - duvida,w2 - fatura,w3 - duvida vencimento feriado,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+w1 - duvida,w2 - fatura,w3 - duvida dia de vencimento,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+,,w3 - duvida dia de vencimento fatura,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+w1 - solicitacao,w2 - fatura,w3 - alterar vencimento,Cartão,Compra,Compra,Vencimento fatura,Não,Solicitação
+bot,bot will - fatura aberta (3),b3 - alterar vencimento fatura,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+bot,bot will - migração,b3 - duvida dia de vencimento fatura,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+,,w3 - duvida - alterar vencimento,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+,,w3 - solicitacao - alterar vencimento,Cartão,Compra,Compra,Vencimento fatura,Não,Solicitação
+,,w3 - duvida - data de vencimento,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+,,w3 - duvida - data de vencimento,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+intent,alteracao de vencimento da fatura,wb-avf,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+intent,vencimento em dia nao util,wb-vdnu,Cartão,Compra,Compra,Vencimento fatura,Não,Dúvida
+,,w3 - duvida caderninho,Autônomo,Autônomo,Autônomo,Caderninho,Não,Dúvida
+,,w3 - bloqueio perda roubo dispositivo,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Solicitação
+,,w3 - desbloqueio perda roubo dispositivo,Fraude,Fraude,Fraude,Validação novo dispositivo,Sim,Solicitação
+,,w3 - duvida pix no debito,Conta,Pix,Pix,Envio de PIX,Não,Dúvida
+,,w3 - duvida pix no credito,Conta,Pix Service,Pix Service,PIX - Crédito,Não,Dúvida
+,,w3 - pix no credito não compensado no destino,Conta,Pix Service,Pix Service,PIX - Crédito,Não,Reclamação
+,,w3 - erro pix no credito,Conta,Pix Service,Pix Service,PIX - Crédito,Não,Problema
+,,w3 - como excluir chave pix,Conta,Pix,Pix,Chaves PIX,Não,Dúvida
+,,w3 - erro app excluir chave pix,Conta,Pix,Pix,Chaves PIX,Não,Problema
+,,w3 - duvida parceria loja will,Marketplace,Marketplace,Marketplace,Novos Parceiros,Não,Dúvida
+,,w3 - cpf nao encontrado,Marketplace,Marketplace,Marketplace,Problemas na identificação do cliente,Não,Problema
+,,w3 - duvida comunicacao da loja will,Marketplace,Marketplace,Marketplace,Comunicação Loja will,Não,Dúvida
+,,w3 - reclamacao comunicacao da loja will,Marketplace,Marketplace,Marketplace,Comunicação Loja will,Não,Reclamação
+,,w3 - duvida e problemas com BNPL loja will,Marketplace,Marketplace,Marketplace,Testes e Novos Produtos,Não,Dúvida
+,,w3 - duvida com cupom loja will,Marketplace,Marketplace,Marketplace,Cupom,Não,Dúvida
+,,w3 - problema com cupom loja will,Marketplace,Marketplace,Marketplace,Cupom,Não,Dúvida
+,,w3 - bug no site ou app loja will,Marketplace,Marketplace,Marketplace,Problemas no site ou app,Não,Problema
+,,w3 - duvida cashback loja will,Marketplace,Marketplace,Marketplace,Dúvidas regras do cashback,Não,Dúvida
+,,w3 - problema cashback loja will,Marketplace,Marketplace,Marketplace,Reclamação pagamento cashback,Não,Problema
+,,w3 - solicitacao reenvio de extrato loja will,Marketplace,Marketplace,Marketplace,Dúvidas regras do cashback,Não,Solicitação
+,,w3 - duvida gift card loja will,Marketplace,Marketplace,Marketplace,Dúvidas regras do Gift Card,Não,Dúvida
+,,w3 - cancelar gift card loja will,Marketplace,Marketplace,Marketplace,Dúvidas regras do Gift Card,Não,Solicitação
+,,w3 - problema compra gift card loja will,Marketplace,Marketplace,Marketplace,Problemas com Gift Card,Não,Problema
+,,w3 - gift card nao funciona ou erro no resgate loja will,Marketplace,Marketplace,Marketplace,Problemas com Gift Card,Não,Problema
+,,n3 - duvidas parceria loja will,Marketplace,Marketplace,Marketplace,Novos Parceiros,Não,Dúvida
+,,n3 - cpf nao encontrado,Marketplace,Marketplace,Marketplace,Problemas na identificação do cliente,Não,Problema
+,,n3 - duvida comunicacao da loja will,Marketplace,Marketplace,Marketplace,Comunicação Loja will,Não,Dúvida
+,,n3 - reclamacao comunicacao da loja will,Marketplace,Marketplace,Marketplace,Comunicação Loja will,Não,Reclamação
+,,n3 - duvida e problemas com BNPL loja will,Marketplace,Marketplace,Marketplace,Testes e Novos Produtos,Não,Dúvida
+,,n3 - duvida com cupom loja will,Marketplace,Marketplace,Marketplace,Cupom,Não,Dúvida
+,,n3 - problema com cupom loja will,Marketplace,Marketplace,Marketplace,Cupom,Não,Dúvida
+,,n3 - bug no site ou app loja will,Marketplace,Marketplace,Marketplace,Problemas no site ou app,Não,Problema
+,,n3 - duvida cashback loja will,Marketplace,Marketplace,Marketplace,Dúvidas regras do cashback,Não,Dúvida
+,,n3 - problema cashback loja will,Marketplace,Marketplace,Marketplace,Reclamação pagamento cashback,Não,Problema
+,,n3 - solicitacao reenvio de extrato loja will,Marketplace,Marketplace,Marketplace,Dúvidas regras do cashback,Não,Solicitação
+,,n3 - duvida gift card loja will,Marketplace,Marketplace,Marketplace,Dúvidas regras do Gift Card,Não,Dúvida
+,,n3 - cancelar gift card loja will,Marketplace,Marketplace,Marketplace,Dúvidas regras do Gift Card,Não,Solicitação
+,,n3 - problema compra gift card loja will,Marketplace,Marketplace,Marketplace,Problemas com Gift Card,Não,Problema
+,,n3 - gift card nao funciona ou erro no resgate loja will,Marketplace,Marketplace,Marketplace,Problemas com Gift Card,Não,Problema
+,,w3 - problema visualizar saldo,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Problema
+,,w3 - problema acessar extrato,Conta,Banking Account,Banking Account,Gestão de Extrato,Não,Dúvida
+,,w3 - historico de atendimento,Atendimento,Atendimento,Atendimento,Canais de atendimento,Não,Solicitação
+,,w3 - Credito Pessoal | erro ao pagar via boleto,Crédito Pessoal,Empréstimo,Empréstimo,Crédito pessoal,Não,Problema
+,,w3 - Credito Pessoal | boleto nao compensado,Crédito Pessoal,Empréstimo,Empréstimo,Crédito pessoal,Não,Problema
+,,w3 - duvida plim,Crédito e Cobrança,Limite de crédito,Limite de crédito,Plim,Não,Dúvida
+,,w3 - duvida open finance,Conta,Pix Service,Pix Service,Open Finance,Não,Dúvida
+,,w3 - problema pix open finance,Conta,Pix Service,Pix Service,Open Finance,Não,Problema
+,,w3 - credito pessoal | negociacao via app,Crédito Pessoal,Empréstimo,Empréstimo,Crédito pessoal,Não,Dúvida
