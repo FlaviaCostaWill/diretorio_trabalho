@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "version": 1,
+    "disable_limits": false,
+    "instance_type": "ml.m5.4xlarge",
+    "disable_validation": false
+  },
+  "parameters": [],
+  "nodes": [
+    {
+      "node_id": "ed210fe3-dc62-49b7-a40f-8ca1ef2e740b",
+      "type": "SOURCE",
+      "operator": "sagemaker.athena_source_0.1",
+      "parameters": {
+        "dataset_definition": {
+          "datasetSourceType": "Athena",
+          "name": "Base_Chats",
+          "catalogName": "AwsDataCatalog",
+          "databaseName": "cx_curated_zone",
+          "queryString": "SELECT date_trunc('month', cast(dt_chat as date)) as dt_mes , c.cpf_customer , nm_tag_hierarquia_1 FROM cx_contact_rate c inner JOIN helpshift_issues AS issues_macro ON c.id_issue = issues_macro.id_issue LEFT JOIN cx_curated_zone.helpshift_tag_niveis AS helpshift_tag ON c.id_issue = helpshift_tag.id_issue LEFT JOIN processed_zone_api_cxm_tags.tags_hierarquia_gerencial as novas_tags ON trim(lower(n3)) = trim(lower(nm_tag_n3)) WHERE c.dt_chat >= to_date('2023-01-01','yyyy-mm-dd')",
+          "s3OutputLocation": "s3://sagemaker-sa-east-1-142401413602/athena/athena/",
+          "outputFormat": "parquet",
+          "workgroup": null,
+          "workgroupOutputLocation": null,
+          "enforceWorkgroupConfiguration": false
+        },
+        "dataSource": {
+          "sourceType": "Amazon Athena"
+        }
+      },
+      "trained_parameters": {
+        "query_execution_id": "498c6923-d164-4354-9e56-6721b9014d05",
+        "unload_table_name": "",
+        "unload_s3_output_location": "s3://sagemaker-sa-east-1-142401413602/athena/athena/a71f55ea7ead445b817e96ff857b0ecc/data/"
+      },
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "default",
+          "sampling": {
+            "sampling_method": "sample_by_limit",
+            "limit_rows": 50000
+          }
+        }
+      ]
+    },
+    {
+      "node_id": "b9f41703-ef75-42a9-8160-0071aa30255e",
+      "type": "TRANSFORM",
+      "operator": "sagemaker.spark.infer_and_cast_type_0.1",
+      "parameters": {},
+      "trained_parameters": {
+        "schema": {
+          "cpf_customer": "long",
+          "nm_tag_hierarquia_1": "string",
+          "dt_mes": "object"
+        }
+      },
+      "inputs": [
+        {
+          "name": "default",
+          "node_id": "ed210fe3-dc62-49b7-a40f-8ca1ef2e740b",
+          "output_name": "default"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "default"
+        }
+      ]
+    },
+    {
+      "node_id": "bde2b573-03df-46ca-94b2-3b44c36622d7",
+      "type": "VISUALIZATION",
+      "operator": "sagemaker.visualizations.histogram_0.1",
+      "parameters": {
+        "name": "Issues por hierarquia",
+        "x_axis": "nm_tag_hierarquia_1"
+      },
+      "inputs": [
+        {
+          "name": "df",
+          "node_id": "b9f41703-ef75-42a9-8160-0071aa30255e",
+          "output_name": "default"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "default"
+        }
+      ]
+    },
+    {
+      "node_id": "87c39b9d-cb9d-4de8-a647-c57320d8c3c7",
+      "type": "VISUALIZATION",
+      "operator": "sagemaker.visualizations.histogram_0.1",
+      "parameters": {
+        "name": "contagem por hierarquia",
+        "x_axis": "dt_mes",
+        "facet_by": "nm_tag_hierarquia_1"
+      },
+      "inputs": [
+        {
+          "name": "df",
+          "node_id": "b9f41703-ef75-42a9-8160-0071aa30255e",
+          "output_name": "default"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "default"
+        }
+      ]
+    }
+  ]
+}
