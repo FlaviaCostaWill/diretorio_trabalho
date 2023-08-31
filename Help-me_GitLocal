@@ -1,0 +1,17 @@
+atualização / sincronizacao com sagemaker:
+
+cd projetos
+cd diretorio_trabalho
+git pull origin master
+
+
+
+subindoo modificações quando rodo local:
+
+cd projetos
+cd diretorio_trabalho
+git status
+git add .
+git status
+git commit -m "inclusão / update"
+git push origin master
