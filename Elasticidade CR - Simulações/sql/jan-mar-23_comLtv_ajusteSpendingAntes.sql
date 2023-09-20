@@ -21,6 +21,7 @@
                						AND cht.qtd_chats < 4 
                     WHERE dt_chat >= to_date('2023-01-01','yyyy-mm-dd') and dt_chat < to_date('2023-04-01','yyyy-mm-dd')
                       AND c.id_issue is not null and issues_macro.nr_tmat > 90 and nm_tag_hierarquia_1 <> 'Crédito e Cobrança'
+                      AND issues_macro.ds_entidade_resolucao = 'agente'
                  GROUP BY 1,2
                  )
 		, de_para AS (
