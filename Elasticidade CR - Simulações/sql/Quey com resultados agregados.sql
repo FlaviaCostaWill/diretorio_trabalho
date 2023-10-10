@@ -7,6 +7,21 @@ where clientes_recorte_total > clientes_cx
 limit 5
 
 
+select
+mesref
+, sum(ltv) as montante_ltv
+, avg(ltv) as media_ltv
+, approx_percentile(ltv, 0.5) as mediana_ltv
+,  count(distinct l.cpf) as clientes_rentaveis_total
+from public.rentabilidade_cartoes_diego_camilo l
+left join growth_curated_zone.proposal_analysis pr on (pr.cpf = l.cpf)
+where date_diff('month', cast(pr.dt_cfi_account as date), current_date) <= 12
+group by 1
+order by mesref
+
+
+
+
 ----------------------------------------------------------
 --------- DADOS PARA PERDA DE ESTIMATIVA DE CR -----------
 ----------------------------------------------------------
@@ -44,7 +59,7 @@ left join parametro as p on (1=1)
 	, ltv_receita_recuperado_final
 	-- Taxa geral de LTV por cliente que deixa de ser atendido
 	, case when deixam_atendimento > 0 then ltv_receita_recuperado_final / deixam_atendimento else 0 end as ltv_incremental_cliente
-	, case when mediana_ltv > 0 and deixam_atendimento > 0  then ltv_receita_recuperado_final / deixam_atendimento / mediana_ltv else 0 end as perc_ltv_cliente
+	, case when media_ltv > 0 and deixam_atendimento > 0  then ltv_receita_recuperado_final / deixam_atendimento / media_ltv else 0 end as perc_ltv_cliente
 	, case when montante_ltv  > 0 then ltv_receita_recuperado_final / montante_ltv else 0 end as perc_ltv_total
 	from calculo_ltv
 )
@@ -58,6 +73,10 @@ dt_mes,
 , sum(perc_ltv_total) as perc_ltv_total
 from base_final
 group by 1
+
+
+
+
 
 
 select
@@ -81,6 +100,12 @@ from public.rentabilidade_cartoes_diego_camilo
 where ltv > 0
 group by 1
 order by mesref
+
+
+select COUNT(distinct CPF) 
+from public.rentabilidade_cartoes_diego_camilo 
+where mesref = '2023-08'
+limit 5
 
 
 
