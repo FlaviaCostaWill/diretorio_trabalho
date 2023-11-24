@@ -37,3 +37,38 @@ from cx_sandbox_zone.analise_sentimento_teste s
 left join cx_curated_zone.indecx_nps n on (cast(n.cpf as double) = s.cpf_customer)
 group by 1
 
+
+select * from cx_sandbox_zone.analise_sentimento_teste
+limit 5
+
+select tipo_msg_predito
+, count(distinct s.cpf_customer) as clientes 
+, avg(case when ds_lealdade_nps = 'promotor' then 1 else 0 end) as cont_promotor
+, avg(case when ds_lealdade_nps = 'neutro' then 1 else 0 end) as cont_neutro
+, avg(case when ds_lealdade_nps = 'detrator' then 1 else 0 end) as cont_detrator
+from cx_sandbox_zone.analise_sentimento_teste s 
+left join cx_curated_zone.indecx_nps n on (cast(n.cpf as double) = s.cpf_customer)
+group by 1
+
+
+select * from 
+cx_curated_zone.segmentacao_ltv
+limit 5
+
+
+select * from cx_sandbox_zone.report_perdas_cr
+limit 5
+
+
+
+
+select max(mesref) from public.rentabilidade_cartoes_diego_camilo
+where cast(concat(mesref, '-01') as date) >= to_date('2023-06-01', 'yyyy-mm-dd')
+
+
+select * from public.rentabilidade_cartoes_diego_camilo
+limit 5
+
+
+describe cx_curated_zone.segmentacao_ltv
+
