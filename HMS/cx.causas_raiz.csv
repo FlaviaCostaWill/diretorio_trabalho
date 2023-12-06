@@ -1,0 +1,112 @@
+nm_causa_raiz,nm_subcausa_raiz,jornada_hms
+Fraude Transacional,Sem indícios de fraude,Geral - Fraude
+Operação Falsa,Fraudador é cliente,Geral - Fraude
+Apontamento Scr,Indevido,Cobrança - Outros
+Dificuldade do Usuário,Proposta do cartão,Cartão - Outros
+Conta Bloqueada,Senha Inválida,Tecnologia
+Dificuldade do Usuário,Como alterar senha app,Tecnologia
+Falha no Processamento,Retirada do Atraso da Conta,Cobrança - Outros
+Return,Recusado pela Return,Cobrança - Outros
+Dificuldade do Usuário,Como antecipar pagamento de fatura,Cartão - Fatura
+Falha no Processamento,Pagamento não identificado - título,Cartão - Fatura
+Dificuldade do Usuário,Declaração de quitação,Cobrança - Outros
+Dificuldade do Usuário,Como antecipar parcela de parcelamento,Cobrança - Outros
+Cadastro positivo,Não Especificado,Cobrança - Outros
+Dificuldade do Usuário,Solicitação da 2ª via do Cartão,Cartão - Logística
+Conta Bloqueada,Atraso,Cobrança - Outros
+Movimentação Não Autorizada,Compra - instabilidade no autorizador,Cartão - Outros
+Conta Bloqueada,Problema de versão,Tecnologia
+Movimentação Não Autorizada,Compra - saldo Insuficiente,Cartão - Outros
+Aguardando subsídios,Sem indícios de fraude,Cartão - NRC
+Dificuldade do Usuário,Falecimento títular,Geral
+Falha no Processamento,Fechamento de Fatura,Cartão - Fatura
+Dificuldade do Usuário,Pagamento em Duplicidade,Cartão - Fatura
+Falsidade Ideológica,Sem indícios de fraude,Geral - Fraude
+Dificuldade do Usuário,Como pagar fatura,Cartão - Fatura
+Dificuldade do Usuário,Não entendi minha fatura,Cartão - Fatura
+Negociação do Débito,SuperEndividamento,Cobrança - Outros
+Fraude Operacional,Engenharia social,Geral - Fraude
+Movimentação Não Autorizada,Saque - falha no caixa eletrônico,Cartão - Outros
+Falha no Processamento,Pagamento não identificado - fatura,Cartão - Fatura
+Movimentação duplicada,Compra,Cartão - Fatura
+Falha no Processamento,Fatura Não Enviada,Cartão - Fatura
+Juros e Encargos,Contratual,Cobrança - Outros
+Falha no Processamento,Deposito Não Compensado,Conta - Outros
+Movimentação duplicada,PIX,Conta - Pix
+Cancelamento Da Conta,Cliente AVISTA,Geral
+Dificuldade do Usuário,Como aumentar limite,Crédito - Limite
+Falha no Processamento,Cancelamento de Compra - Estorno Não Gerado,Cartão - Outros
+Falha no Processamento,Produção do Cartão - Cartão Não Recebido,Cartão - Logística
+Dificuldade do Usuário,Cancelamento de operação,Cartão - Outros
+Movimentação duplicada,Baixa de pagamento de fatura duplicado,Cartão - Fatura
+Movimentação Não Autorizada,Ted - CPF com bloqueio na lista negra,Conta - Outros
+Dificuldade do Usuário,Como emitir fatura pelo app,Cartão - Fatura
+Reclamação de Cobrança,Cobrança Abusiva / Excesso de Ligações,Cobrança - Outros
+Movimentação Não Autorizada,Ted - instabilidade no autorizador,Conta - Outros
+Reclamação de Cobrança,Limite Zerado,Crédito - Limite
+Falha no Processamento,Parcelamento não gerado - compra,Cartão - Outros
+Dificuldade do Usuário,Chave PIX,Conta - Pix
+Movimentação Não Autorizada,Compra - Erro de Senha,Cartão - Outros
+Falha no Processamento,Cancelamento de compra - estorno não gerado,Cartão - Outros
+Dificuldade do Usuário,Parcelamento de Compra,Cartão - Outros
+Dificuldade do Usuário,Prazo entrega do cartão,Cartão - Logística
+Dificuldade do Usuário,Desacordo Comercial,Cartão - NRC
+Falha no Processamento,Ted - estorno não gerado,Conta - Outros
+Falha no Processamento,Produção do cartão - cartão não recebido,Cartão - Logística
+Dificuldade do Usuário,Como gerar fatura com valor parcial,Cartão - Fatura
+Movimentação Não Autorizada,Saldo Conta Bloqueado,Conta - Outros
+Negativação,Indevido,Cobrança - Outros
+Fraude Transacional,Fraude confirmada,Geral - Fraude
+Conta Bloqueada,Token não recebido,Tecnologia
+Falsidade Ideológica,Fraude confirmada,Geral - Fraude
+Extravio do Cartão,Sem indícios de fraude,Cartão - Logística
+Conta Bloqueada,Problema de Versão,Tecnologia
+Dificuldade do Usuário,Cancelamento de compra,Cartão - Outros
+Ilegitimidade,Passiva,Geral
+Movimentação Não Autorizada,Título - instabilidade no autorizador,Cartão - Outros
+Funcionalidade App Indisponivel,Quitação de Fatura,Cartão - Fatura
+Conta Bloqueada,Prevenção a Fraude,Geral - Fraude
+Juros e Encargos,Indevido,Cobrança - Outros
+Fraude Operacional,Sim swap,Geral - Fraude
+Conta Bloqueada,Token Não Recebido,Tecnologia
+Negativação,Devido,Cobrança - Outros
+Dificuldade do Usuário,Como parcelar fatura,Cartão - Fatura
+Reclamação de Cobrança,Cobrança a Não Cliente,Cobrança - Outros
+Dificuldade do Usuário,Como alterar vencimento da fatura,Cartão - Fatura
+Dificuldade do Usuário,Bloqueio/Desbloqueio do cartão pelo app,Tecnologia
+Falha no Processamento,Conversão indevida real para dólar,Cartão - Outros
+Movimentação Não Autorizada,Saque - Falha no Caixa Eletrônico,Conta - Outros
+Cancelamento Da Conta,Desinteresse Comercial - Ação Interna,Geral
+Ilegitimidade,Ativa,Geral
+Cancelamento Da Conta,Desinteresse do cliente,Geral
+Erro Operacional Interno,Falha no atendimento,Geral
+Movimentação Não Autorizada,PIX - Instabilidade no Autorizador,Conta - Pix
+Dificuldade do Usuário,Como antecipar parcela de compra,Cartão - Fatura
+Movimentação Não Autorizada,Ted - Instabilidade no Autorizador,Conta - Outros
+Conta Bloqueada,CPF Irregular,Geral
+Cashback,Loja Will,Marketplace
+Reclamação de Cobrança,Ajuste de Crédito Indevido,Cobrança - Outros
+Funcionalidade App Indisponivel,Antecipar Parcela de Compra,Cartão - Outros
+Falha no Processamento,Lançamento de Crédito Indevido,Cartão - Fatura
+Movimentação Não Autorizada,Saque - Instabilidade no Autorizador,Conta - Outros
+Dificuldade do Usuário,Bloqueio do Cartão por Prevenção,Cobrança - Outros
+Dificuldade do Usuário,Prazo Entrega Do Cartão,Cartão - Logística
+Conta Bloqueada,Prevenção a fraude,Geral - Fraude
+Movimentação Não Autorizada,Compra - cartão bloqueado,Cartão - Outros
+Negociação do Débito,Parcelamento Simples,Cobrança - Outros
+Dificuldade do Usuário,Alteração cadastral,Geral
+Negociação do Débito,Campanha Negociação,Cartão - Cobrança
+Dificuldade do Usuário,Pagamento de fatura em duplicada,Cartão - Fatura
+Operação Falsa,Fraudador não é cliente,Geral - Fraude
+Fraude Transacional,Engenharia social,Geral - Fraude
+Movimentação Não Autorizada,Compra - Instabilidade No Autorizador,Cartão - Outros
+Dificuldade do Usuário,Como realizar operação,Cartão - Fatura
+Falha no Processamento,Parcelamento não gerado - fatura,Cartão - Fatura
+Movimentação Não Autorizada,Compra - Saldo Insuficiente,Cartão - Outros
+Movimentação Não Autorizada,Compra - Cartão Bloqueado,Cartão - Outros
+Dificuldade do Usuário,Solicitação da 2ª via do cartão,Cartão - Logística
+Falha no Processamento,Valor de compra incorreto,Cartão - Outros
+Extravio do Cartão,Fraude confirmada,Geral - Fraude
+Movimentação Não Autorizada,Titulo - CPF com bloqueio na lista negra,Compra - Fraude
+Falha no Processamento,Ted - Estorno Não Gerado,Conta - Outros
+Movimentação Não Autorizada,Compra - Erro de leitura do CVV,Compra - Outros

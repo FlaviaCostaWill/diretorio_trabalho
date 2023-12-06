@@ -7,7 +7,6 @@ select * from cx_curated_zone.hms limit 5
 
 select distinct mes_referencia  from cx_curated_zone.hms
 
-
 select 
 --mes_chat
  case 
@@ -24,8 +23,6 @@ left join cx_curated_zone.hms h on (s.cpf_customer = cast(h.cpf as double)
 				and substring(s.mes_chat,6,2) = substring(h.mes_referencia, 5, 2))
 where cast(mes_chat as date) >= to_date('2023-08-01', 'yyyy-mm-dd')
 group by 1, 2
-
-
 
 
 select sentimento_predito
