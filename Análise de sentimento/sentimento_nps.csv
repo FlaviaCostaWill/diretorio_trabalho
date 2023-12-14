@@ -1,0 +1,101 @@
+id_cliente|ingestion_date|ds_avaliacao|sent_predito_1|flag_negativo|flag_positivo|sent_predito_final|tipo_msg_predito|sentimento_predito
+6758705a-caed-4afe-bf33-5ee81f83c05d|2023-10-29 19:35:10|Muito prático|2|0|0|2|2. Duvida|2. Positivo
+b84eb0d0-c9e6-4f9f-813c-6569e20c090d|2023-11-16 15:21:35|Bom atendimento|2|0|0|2|1. Solicitacao|2. Positivo
+|2022-05-02 22:39:03|Agilidade e eficiência|1|0|0|1|2. Duvida|1. Neutro
+dae57cce-a91e-440c-bbfa-c98d69e2321c|2022-05-12 19:25:24|Importante|1|0|0|1|2. Duvida|1. Neutro
+|2023-10-29 11:17:27|Muito prático e seguro amei sem dúvidas|2|0|0|2|2. Duvida|2. Positivo
+|2023-10-24 13:31:51|Otimo|1|0|0|1|2. Duvida|1. Neutro
+|2023-11-27 12:57:16|Todas as facilidades encontradas na hora de usar o meu cartão.|1|0|0|1|2. Duvida|1. Neutro
+a47bbaf9-d847-4909-8e52-1be185b83eb2|2022-01-05 13:24:15|A rapidez|1|0|0|1|2. Duvida|1. Neutro
+af2e0b6f-a601-4557-930b-21a7f11edf17|2022-10-19 18:39:24|Aumentar meu limite|1|0|0|1|2. Duvida|1. Neutro
+|2023-08-04 17:49:45|👍|1|0|0|1|2. Duvida|1. Neutro
+|2023-06-17 07:53:51|Obrigada pela excelência no atendimento.|2|0|0|2|0. Problema|2. Positivo
+b0533533-2278-4609-9aed-e14cdee6d11a|2023-05-12 22:48:35|Excelente|2|0|0|2|2. Duvida|2. Positivo
+df17d2fb-46e4-49c8-884a-ba52a076fab3|2022-07-26 19:33:40|Liberou rapido!!|1|0|0|1|0. Problema|1. Neutro
+|2023-07-15 14:31:10|Muito bom|2|0|0|2|2. Duvida|2. Positivo
+e67e7215-76a0-40df-b492-f7dff2e63356|2023-05-26 11:44:39|Muito bom|2|0|0|2|2. Duvida|2. Positivo
+47554210|2022-12-28 19:53:33|Min da ma limites|1|0|0|1|0. Problema|1. Neutro
+85624b45-52b2-4d02-a09f-da7451520d6c|2022-07-27 08:46:40|Cartão ótimo|2|0|1|2|2. Duvida|2. Positivo
+533a8194-42d5-4a8f-959f-f814147e03e8|2023-02-24 18:16:57|Obrigado|2|0|0|2|2. Duvida|2. Positivo
+|2023-02-25 12:05:44|Ele é muito bom .e aceita em qualquer lugar.|2|0|0|2|2. Duvida|2. Positivo
+fd7ff1e0-cfd1-4a9b-96f8-e0e960006822|2023-07-03 12:28:31|Limite baixo|1|0|0|1|2. Duvida|1. Neutro
+|2023-06-16 13:29:45|eficaz|1|0|0|1|2. Duvida|1. Neutro
+|2022-05-13 11:10:26|É rápido e fácil. Super indico. Agora só aguardar chegar o cartão. Obrigaduuuuuu|1|0|0|1|2. Duvida|1. Neutro
+|2023-10-18 19:17:10|Atendimento excelente|2|0|0|2|1. Solicitacao|2. Positivo
+8021cf26-8b8c-4620-9506-23e4854a1813|2022-08-17 10:36:42|Boa|2|0|0|2|2. Duvida|2. Positivo
+ceb978db-1095-419f-89de-f0ff3155d808|2022-04-26 22:47:04|Ameiiii meu limite|1|0|0|1|2. Duvida|1. Neutro
+3f48d966-b349-44d0-bd98-7c07603cbd0d|2023-10-21 10:58:23|Ótimo|2|0|1|2|2. Duvida|2. Positivo
+55303706-d136-4c74-aef4-bb24fb41662f|2023-05-30 15:03:51|Tudo muito rápido pra fazer PARABÉNS|1|0|0|1|2. Duvida|1. Neutro
+|2023-06-23 19:03:15|Muito bom|2|0|0|2|2. Duvida|2. Positivo
+9c4138f5-800b-448e-8499-1fbfc1c33f69|2023-01-27 19:03:18|Muito patrico e funcional|2|0|0|2|2. Duvida|2. Positivo
+b578b508-15fe-4c92-9c94-91ad29104ddf|2022-08-17 11:15:37|A praticidade e o otimo atendimento|0|0|0|0|1. Solicitacao|0. Negativo
+|2023-06-22 17:40:55|Eu achei muito bom atendimento excelente|2|0|0|2|1. Solicitacao|2. Positivo
+44394650|2022-07-25 13:16:45|Vocês estão sempre prontos a ajudar.|0|0|0|0|0. Problema|0. Negativo
+b0e73fef-fe88-49ba-bbee-041303d98ec6|2023-10-17 12:36:33|Atendimento e agilidade|0|0|0|0|1. Solicitacao|0. Negativo
+|2022-08-25 15:23:03|Gostei muito da agilidade do aplicativo; bem tranquilo de pre encher; liberam bom limite e em tempo rápido!!|2|0|0|2|2. Duvida|2. Positivo
+|2023-05-10 06:24:35|Eu quero meu cartão de crédito|1|0|0|1|1. Solicitacao|1. Neutro
+ddc9eec2-5f10-44f9-9875-2c39c0e010bb|2023-03-13 17:49:05|Will bank e um cartão de crédito com juros abaixo da tabela de vários cartões isso que me fez eu criar um cartão Will bank|0|0|0|0|2. Duvida|0. Negativo
+d7f0913f-b14f-4011-b883-ebe352760eab|2023-04-26 12:59:03|Precisava de um cartão pra facilitar minha vida; e foi com o cartão Wil que encontrei essa facilidade.|1|0|0|1|1. Solicitacao|1. Neutro
+|2023-02-16 12:27:30|A minha experiência|1|0|0|1|2. Duvida|1. Neutro
+3067a70d-617a-42ae-a9c5-d784a5a94e48|2022-04-26 20:35:08|Gostei muito de me torna cliente wil ;nada a reclamar ;continuem assim estou super satisfeito!|0|0|0|0|0. Problema|0. Negativo
+55d716e4-fba7-424b-acd8-d38cb4965bca|2023-03-21 14:24:32|Muito bom gostei da facilidade de acesso no aplicativo mais quero usar o Will pra ivestimentos.|0|0|0|0|0. Problema|0. Negativo
+|2022-08-26 23:26:33|o app é maravilhoso e a comunicação é excelente|2|0|0|2|2. Duvida|2. Positivo
+|2022-05-26 22:05:17|Show de bola|1|0|0|1|2. Duvida|1. Neutro
+50039040|2022-01-25 18:56:25|O tempo pra responder o chat demora um pouco... Tem que ser mais imediato o atendimento!|0|0|0|0|0. Problema|0. Negativo
+|2023-05-16 13:56:20|Tudo muito rápido; o app é muito fácil para mexer|2|0|0|2|2. Duvida|2. Positivo
+|2022-05-26 07:22:06|As taxas que são altas|1|0|0|1|2. Duvida|1. Neutro
+|2022-01-25 14:22:45|Hwkejtk|1|0|0|1|2. Duvida|1. Neutro
+|2023-07-26 09:07:15|Muito satisfatório com o will|2|0|0|2|0. Problema|2. Positivo
+|2022-02-08 09:33:25|Limite horrível heim quanto estive negativado tive esse limite . Vamos vê qual vantagem tenho com esse will.|0|0|0|0|2. Duvida|0. Negativo
+|2023-07-22 01:56:35|Muito bom e ágil fazer o cadastro da Willbank;aprovação excelente.|2|0|0|2|2. Duvida|2. Positivo
+|2023-04-06 14:50:32|10|1|0|0|1|1. Solicitacao|1. Neutro
+432dfc01-a6b0-4130-ae25-8e2a3144b018|2023-04-12 04:09:39|Ótima o atendimento|0|0|0|0|2. Duvida|0. Negativo
+169074db-0987-474b-a775-4b538a0f01b3|2022-08-09 10:37:27|É bom|2|0|0|2|2. Duvida|2. Positivo
+|2022-11-08 13:23:14|O limite que e melhor|1|0|0|1|2. Duvida|1. Neutro
+f7adde10-df47-4006-9530-d995eef60e4b|2023-06-05 18:55:46|Muito obrigada|2|0|0|2|2. Duvida|2. Positivo
+|2023-05-09 16:34:22|Muito bom|2|0|0|2|2. Duvida|2. Positivo
+|2022-03-25 12:19:01|Me ajuda bastante|1|0|0|1|0. Problema|1. Neutro
+|2023-03-25 15:34:29|Muita praticidade no uso|1|0|0|1|1. Solicitacao|1. Neutro
+d6dbe105-f89f-4c59-ada3-84e10f4b5d3d|2022-06-22 19:57:38|1000|1|0|0|1|0. Problema|1. Neutro
+45416190|2022-04-25 14:43:14|E tudo de bom .  Em todos os sentidos.    Está sempre presente em todos os momentos.|0|0|0|0|1. Solicitacao|0. Negativo
+|2022-07-27 06:07:28|Ótimo|2|0|1|2|2. Duvida|2. Positivo
+|2022-04-07 16:33:55|Ainda estou conhecendo o cartão mais estou gostando|0|0|0|0|0. Problema|0. Negativo
+10688b0f-53cb-49d3-a7bb-44cc249de220|2023-05-09 22:17:18|Tenho familiares que usam o Will; e pelo que puder ver ele é muito útil; então quis experimentar também! 😄|1|0|0|1|1. Solicitacao|1. Neutro
+|2023-08-01 16:10:20|Esse cartão pelo q vejo fala é tudo de bom|1|0|0|1|1. Solicitacao|1. Neutro
+3789837|2023-02-25 13:55:48|sempre me ajuda nos momentos q mais preciso|0|0|0|0|0. Problema|0. Negativo
+|2022-03-09 20:42:28|10|1|0|0|1|1. Solicitacao|1. Neutro
+204ee16a-2f99-4b31-ad64-a703c2edfa6a|2022-06-30 17:46:21|Fiquei feliz que fui aprovado é não demorou muito 👏👏|2|0|0|2|0. Problema|2. Positivo
+b33ab3a6-c0f7-46db-8599-6f6fba76e525|2023-05-18 20:58:13|A atenção de vcs e o comprometimento com os clientes|0|0|0|0|1. Solicitacao|0. Negativo
+55626aa8-2ed3-4701-b80e-e103509b1290|2022-03-25 23:11:20|Rápido e fácil|1|0|0|1|2. Duvida|1. Neutro
+|2022-12-29 17:57:46|Aumentar o meu limite|1|0|0|1|2. Duvida|1. Neutro
+|2023-07-06 22:34:06|Bom atendimentos|2|0|0|2|2. Duvida|2. Positivo
+|2022-12-21 15:18:02|E muito bom gostei muito|2|0|0|2|2. Duvida|2. Positivo
+|2023-02-08 16:40:14|Exclusividade e rápidez|1|0|0|1|2. Duvida|1. Neutro
+|2023-06-02 07:56:35|Rapidez e agilidade para aprovação e aplicativo fácil de manuseio!|1|0|0|1|1. Solicitacao|1. Neutro
+|2022-03-03 05:12:27|O limite que eu achei pouco|0|0|0|0|2. Duvida|0. Negativo
+39c56865-2811-43d1-9d58-6c4b7a271892|2023-01-10 23:07:37|Gostei muito Fácil|2|0|0|2|0. Problema|2. Positivo
+|2022-09-23 12:42:06|O atendimento simples e fácil|0|0|0|0|1. Solicitacao|0. Negativo
+d9a40a51-55a5-4cf9-ba7d-34ff3e212e11|2023-09-26 02:56:13|Confiável|1|0|0|1|2. Duvida|1. Neutro
+4ad979e9-6d65-4a25-810f-ed80ce31c894|2022-08-23 17:52:53|Estou feliz pelo aquisição do cartão e até agora foi tudo muito simples.|2|0|0|2|0. Problema|2. Positivo
+|2023-08-02 22:00:33|Um cartão muito prático e rápida avaliação sem burocracia|1|0|0|1|1. Solicitacao|1. Neutro
+52120560|2022-11-25 12:31:53|Preciso de mais limite pra eu poder fazer minhas compras ;se isso acontecer pra mim o Will estará nota 10 em todos os sentidos 😍|0|0|0|0|1. Solicitacao|0. Negativo
+b0531635-fded-4c5c-9d52-59921d1551cf|2023-02-26 16:25:15|ainda n tenho limite de credito disponivel|1|0|0|1|2. Duvida|1. Neutro
+|2022-02-21 18:26:39|Ótimo atendimento; praticidade; rapidez|0|0|1|2|2. Duvida|2. Positivo
+32c97f61-aabe-4809-8df8-3589a0555507|2023-06-15 14:55:45|Top|1|0|0|1|2. Duvida|1. Neutro
+5ba0b31f-e89d-4813-982c-59bab529a94b|2022-03-12 07:16:47|Otimo|1|0|0|1|2. Duvida|1. Neutro
+93c26e75-cdfb-4249-8f2c-24a72e05d930|2023-07-24 08:13:19|Gostei da rapidez e do limite do cartão de crédito|1|0|0|1|2. Duvida|1. Neutro
+ce410d80-ba3e-46ba-a65f-b39e78b36c1e|2023-01-16 09:59:45|Show|1|0|0|1|2. Duvida|1. Neutro
+cc23d544-1a99-4437-b043-0a2e89424434|2022-11-29 12:55:12|O processo é muito rápido e o atendimento é muito bom.|2|0|0|2|1. Solicitacao|2. Positivo
+|2022-02-25 17:38:45|O cartão e ótimo só o limite que não muito alto; estou usando há um tempo e não aumenta o limite; no futuro se permaneçer assim mudarei de banco.|2|0|1|2|0. Problema|2. Positivo
+53941490|2022-03-25 17:55:24|Muito pratico de usar ; é aprovado rápido;e td de bom|2|0|0|2|2. Duvida|2. Positivo
+|2023-05-25 21:11:04|Até o momento está tudo ótimo com minha experiência com o will.|1|0|1|2|0. Problema|2. Positivo
+bd749d26-84a5-4f21-a3b6-403c32e91469|2022-11-28 12:35:44|Gostaria de limite de crédito|1|0|0|1|2. Duvida|1. Neutro
+|2023-05-09 17:53:43|Pra mim ter uma esperança de aprova meu cartão mesmo com a pontuação baixa|1|0|0|1|2. Duvida|1. Neutro
+47523010|2023-03-25 16:13:52|Aumento de limite de forma rápida e eficiente; aceito em todos os lugares.|0|0|0|0|2. Duvida|0. Negativo
+6c3e5f28-5189-4442-ba18-825c5abd5192|2023-06-21 05:27:58|Ótimo; recomendo sim; e também tive boas referências.|1|0|1|2|2. Duvida|2. Positivo
+2f46421e-d5bf-4f6f-b30c-5df48e55d14e|2022-08-15 15:23:06|Foi muito fácil o acesso o aplicativo Will Bank; oferecer um limite onde agente consegue pagar mensalmente.|2|0|0|2|2. Duvida|2. Positivo
+|2022-08-15 13:47:56|9|1|0|0|1|2. Duvida|1. Neutro
+|2023-08-03 16:19:09|Foi simples e prático ter o cartão will|1|0|0|1|0. Problema|1. Neutro
+|2022-04-27 21:06:12|Will top|2|0|0|2|0. Problema|2. Positivo
+|2022-08-25 13:03:36|;.|1|0|0|1|2. Duvida|1. Neutro
+24a31514-0e53-4701-b439-e02d5345cd7f|2022-04-26 20:23:46|Gostei muito da rapidez da resposta de aprovação!|0|0|0|0|0. Problema|0. Negativo
