@@ -1,65 +1,52 @@
 ,sequence,labels,scores
-0,aguarde só um minuto,aguardar,0.6347271800041199
-1,aguarde só um minuto,seguir,0.25345632433891296
-2,aguarde só um minuto,questionamento,0.0933295339345932
-3,aguarde só um minuto,negativa,0.01848696917295456
-0,"mais alguma dúvida, flávio",negativa,0.40818777680397034
-1,"mais alguma dúvida, flávio",questionamento,0.3293780982494354
-2,"mais alguma dúvida, flávio",seguir,0.1638142168521881
-3,"mais alguma dúvida, flávio",aguardar,0.09861984103918076
-0,"thaynar, para podermos seguir com o procedimento, peço, por favor, que me envie uma foto selfie segurando uma folha. nessa folha, você precisa escrever o código m6145534.",seguir,0.8620415925979614
-1,"thaynar, para podermos seguir com o procedimento, peço, por favor, que me envie uma foto selfie segurando uma folha. nessa folha, você precisa escrever o código m6145534.",aguardar,0.09151493012905121
-2,"thaynar, para podermos seguir com o procedimento, peço, por favor, que me envie uma foto selfie segurando uma folha. nessa folha, você precisa escrever o código m6145534.",questionamento,0.04178081825375557
-3,"thaynar, para podermos seguir com o procedimento, peço, por favor, que me envie uma foto selfie segurando uma folha. nessa folha, você precisa escrever o código m6145534.",negativa,0.004662688821554184
-0,já foi explicado que não.,negativa,0.3872706890106201
-1,já foi explicado que não.,seguir,0.25882890820503235
-2,já foi explicado que não.,aguardar,0.21430329978466034
-3,já foi explicado que não.,questionamento,0.139597088098526
-0,"não existe mandar senha, maria. senha é algo que somente você possui. não temos acesso.",negativa,0.5121742486953735
-1,"não existe mandar senha, maria. senha é algo que somente você possui. não temos acesso.",questionamento,0.2589646279811859
-2,"não existe mandar senha, maria. senha é algo que somente você possui. não temos acesso.",seguir,0.12712739408016205
-3,"não existe mandar senha, maria. senha é algo que somente você possui. não temos acesso.",aguardar,0.10173381865024567
-0,"ei,  me chamo anna e vou prosseguir com o atendimento 😊",seguir,0.730494499206543
-1,"ei,  me chamo anna e vou prosseguir com o atendimento 😊",aguardar,0.21876345574855804
-2,"ei,  me chamo anna e vou prosseguir com o atendimento 😊",questionamento,0.04606793448328972
-3,"ei,  me chamo anna e vou prosseguir com o atendimento 😊",negativa,0.004674063064157963
-0,"eu vou te passar para um colega especialista que ira te auxiliar melhor nesse caso, ! só peço que aguarde um momento, por favor! 😊",aguardar,0.6332756876945496
-1,"eu vou te passar para um colega especialista que ira te auxiliar melhor nesse caso, ! só peço que aguarde um momento, por favor! 😊",seguir,0.18969517946243286
-2,"eu vou te passar para um colega especialista que ira te auxiliar melhor nesse caso, ! só peço que aguarde um momento, por favor! 😊",questionamento,0.1604478359222412
-3,"eu vou te passar para um colega especialista que ira te auxiliar melhor nesse caso, ! só peço que aguarde um momento, por favor! 😊",negativa,0.01658129319548607
-0,"entretanto, para conseguirmos prosseguir com a abertura de análise, será necessário realizar o bloqueio definitivo do cartão e solicitar a segunda via, ao final do atendimento, ",seguir,0.5905681848526001
-1,"entretanto, para conseguirmos prosseguir com a abertura de análise, será necessário realizar o bloqueio definitivo do cartão e solicitar a segunda via, ao final do atendimento, ",questionamento,0.20770126581192017
-2,"entretanto, para conseguirmos prosseguir com a abertura de análise, será necessário realizar o bloqueio definitivo do cartão e solicitar a segunda via, ao final do atendimento, ",aguardar,0.18223509192466736
-3,"entretanto, para conseguirmos prosseguir com a abertura de análise, será necessário realizar o bloqueio definitivo do cartão e solicitar a segunda via, ao final do atendimento, ",negativa,0.01949545182287693
-0,"olá, vinícius,  meu nome é maysa e te atenderei a partir de agora.🏃‍♀️",seguir,0.44599148631095886
-1,"olá, vinícius,  meu nome é maysa e te atenderei a partir de agora.🏃‍♀️",questionamento,0.3875701129436493
-2,"olá, vinícius,  meu nome é maysa e te atenderei a partir de agora.🏃‍♀️",aguardar,0.1416797786951065
-3,"olá, vinícius,  meu nome é maysa e te atenderei a partir de agora.🏃‍♀️",negativa,0.02475864253938198
-0,"agora, preciso, por gentileza, que você me confirme algumas informações, ​",questionamento,0.43543538451194763
-1,"agora, preciso, por gentileza, que você me confirme algumas informações, ​",aguardar,0.3470277786254883
-2,"agora, preciso, por gentileza, que você me confirme algumas informações, ​",seguir,0.20439088344573975
-3,"agora, preciso, por gentileza, que você me confirme algumas informações, ​",negativa,0.01314594503492117
-0,"peço que permaneça na tela do chat durante o atendimento para ser mais dinâmico, por favor!!",seguir,0.41682565212249756
-1,"peço que permaneça na tela do chat durante o atendimento para ser mais dinâmico, por favor!!",aguardar,0.3742697238922119
-2,"peço que permaneça na tela do chat durante o atendimento para ser mais dinâmico, por favor!!",questionamento,0.20132586359977722
-3,"peço que permaneça na tela do chat durante o atendimento para ser mais dinâmico, por favor!!",negativa,0.007578753400593996
-0,"aguarde um momento, por favor! é importante que mantenha- se na tela do chat, enquanto realizo algumas verificações.",aguardar,0.5733563899993896
-1,"aguarde um momento, por favor! é importante que mantenha- se na tela do chat, enquanto realizo algumas verificações.",seguir,0.295564740896225
-2,"aguarde um momento, por favor! é importante que mantenha- se na tela do chat, enquanto realizo algumas verificações.",questionamento,0.1289060115814209
-3,"aguarde um momento, por favor! é importante que mantenha- se na tela do chat, enquanto realizo algumas verificações.",negativa,0.0021728789433836937
-0,"me chamo natalice e irei te ajudar hoje. peço por gentileza, que permaneça aqui na conversa",aguardar,0.7821173071861267
-1,"me chamo natalice e irei te ajudar hoje. peço por gentileza, que permaneça aqui na conversa",seguir,0.15189868211746216
-2,"me chamo natalice e irei te ajudar hoje. peço por gentileza, que permaneça aqui na conversa",questionamento,0.0583295039832592
-3,"me chamo natalice e irei te ajudar hoje. peço por gentileza, que permaneça aqui na conversa",negativa,0.007654442917555571
-0,"olá, maria!  sou thiago, estou verificando sua dúvida, peço a gentileza de permanecer na tela do nosso chat. muito obrigado por aguardar, prometo que não demorarei!",aguardar,0.5128159523010254
-1,"olá, maria!  sou thiago, estou verificando sua dúvida, peço a gentileza de permanecer na tela do nosso chat. muito obrigado por aguardar, prometo que não demorarei!",questionamento,0.37977489829063416
-2,"olá, maria!  sou thiago, estou verificando sua dúvida, peço a gentileza de permanecer na tela do nosso chat. muito obrigado por aguardar, prometo que não demorarei!",seguir,0.09247266501188278
-3,"olá, maria!  sou thiago, estou verificando sua dúvida, peço a gentileza de permanecer na tela do nosso chat. muito obrigado por aguardar, prometo que não demorarei!",negativa,0.014936513267457485
-0,"você pode me contar melhor qual a sua dúvida, por gentileza",questionamento,0.5584505200386047
-1,"você pode me contar melhor qual a sua dúvida, por gentileza",seguir,0.22821661829948425
-2,"você pode me contar melhor qual a sua dúvida, por gentileza",aguardar,0.19261951744556427
-3,"você pode me contar melhor qual a sua dúvida, por gentileza",negativa,0.02071334980428219
-0,detalhe a sua dúvida. ,questionamento,0.5266412496566772
-1,detalhe a sua dúvida. ,seguir,0.3164725601673126
-2,detalhe a sua dúvida. ,aguardar,0.08676808327436447
-3,detalhe a sua dúvida. ,negativa,0.07011813670396805
+0,aguarde só um minuto,resolvendo o problema do cliente,0.3672449588775635
+1,aguarde só um minuto,sendo negativo,0.3517701029777527
+2,aguarde só um minuto,pedindo para aguardar,0.28098493814468384
+0,"mais alguma dúvida, flávio",sendo negativo,0.7008808255195618
+1,"mais alguma dúvida, flávio",pedindo para aguardar,0.22164428234100342
+2,"mais alguma dúvida, flávio",resolvendo o problema do cliente,0.07747487723827362
+0,já disse que isso não é possível,sendo negativo,0.9301698803901672
+1,já disse que isso não é possível,resolvendo o problema do cliente,0.03775670379400253
+2,já disse que isso não é possível,pedindo para aguardar,0.032073356211185455
+0,"thaynar, para podermos seguir com o procedimento, peço, por favor, que me envie uma foto selfie segurando uma folha. nessa folha, você precisa escrever o código m6145534.",pedindo para aguardar,0.8651575446128845
+1,"thaynar, para podermos seguir com o procedimento, peço, por favor, que me envie uma foto selfie segurando uma folha. nessa folha, você precisa escrever o código m6145534.",resolvendo o problema do cliente,0.10192026942968369
+2,"thaynar, para podermos seguir com o procedimento, peço, por favor, que me envie uma foto selfie segurando uma folha. nessa folha, você precisa escrever o código m6145534.",sendo negativo,0.032922111451625824
+0,já foi explicado que não.,sendo negativo,0.5068106651306152
+1,já foi explicado que não.,resolvendo o problema do cliente,0.40222567319869995
+2,já foi explicado que não.,pedindo para aguardar,0.09096372872591019
+0,"não existe mandar senha, maria. senha é algo que somente você possui. não temos acesso.",sendo negativo,0.712151050567627
+1,"não existe mandar senha, maria. senha é algo que somente você possui. não temos acesso.",resolvendo o problema do cliente,0.16518020629882812
+2,"não existe mandar senha, maria. senha é algo que somente você possui. não temos acesso.",pedindo para aguardar,0.12266872078180313
+0,"ei,  me chamo anna e vou prosseguir com o atendimento 😊",resolvendo o problema do cliente,0.6142181158065796
+1,"ei,  me chamo anna e vou prosseguir com o atendimento 😊",pedindo para aguardar,0.32547008991241455
+2,"ei,  me chamo anna e vou prosseguir com o atendimento 😊",sendo negativo,0.06031182035803795
+0,"eu vou te passar para um colega especialista que ira te auxiliar melhor nesse caso, ! só peço que aguarde um momento, por favor! 😊",pedindo para aguardar,0.8513601422309875
+1,"eu vou te passar para um colega especialista que ira te auxiliar melhor nesse caso, ! só peço que aguarde um momento, por favor! 😊",resolvendo o problema do cliente,0.08862145245075226
+2,"eu vou te passar para um colega especialista que ira te auxiliar melhor nesse caso, ! só peço que aguarde um momento, por favor! 😊",sendo negativo,0.060018397867679596
+0,"entretanto, para conseguirmos prosseguir com a abertura de análise, será necessário realizar o bloqueio definitivo do cartão e solicitar a segunda via, ao final do atendimento, ",pedindo para aguardar,0.5353027582168579
+1,"entretanto, para conseguirmos prosseguir com a abertura de análise, será necessário realizar o bloqueio definitivo do cartão e solicitar a segunda via, ao final do atendimento, ",resolvendo o problema do cliente,0.30467987060546875
+2,"entretanto, para conseguirmos prosseguir com a abertura de análise, será necessário realizar o bloqueio definitivo do cartão e solicitar a segunda via, ao final do atendimento, ",sendo negativo,0.16001740097999573
+0,"olá, vinícius,  meu nome é maysa e te atenderei a partir de agora.🏃‍♀️",pedindo para aguardar,0.6602100729942322
+1,"olá, vinícius,  meu nome é maysa e te atenderei a partir de agora.🏃‍♀️",resolvendo o problema do cliente,0.22593197226524353
+2,"olá, vinícius,  meu nome é maysa e te atenderei a partir de agora.🏃‍♀️",sendo negativo,0.11385797709226608
+0,"agora, preciso, por gentileza, que você me confirme algumas informações, ​",pedindo para aguardar,0.8713880181312561
+1,"agora, preciso, por gentileza, que você me confirme algumas informações, ​",resolvendo o problema do cliente,0.08506982773542404
+2,"agora, preciso, por gentileza, que você me confirme algumas informações, ​",sendo negativo,0.04354218766093254
+0,"peço que permaneça na tela do chat durante o atendimento para ser mais dinâmico, por favor!!",pedindo para aguardar,0.6517571210861206
+1,"peço que permaneça na tela do chat durante o atendimento para ser mais dinâmico, por favor!!",resolvendo o problema do cliente,0.3076394498348236
+2,"peço que permaneça na tela do chat durante o atendimento para ser mais dinâmico, por favor!!",sendo negativo,0.040603384375572205
+0,"aguarde um momento, por favor! é importante que mantenha- se na tela do chat, enquanto realizo algumas verificações.",pedindo para aguardar,0.9029359221458435
+1,"aguarde um momento, por favor! é importante que mantenha- se na tela do chat, enquanto realizo algumas verificações.",resolvendo o problema do cliente,0.05712481588125229
+2,"aguarde um momento, por favor! é importante que mantenha- se na tela do chat, enquanto realizo algumas verificações.",sendo negativo,0.03993922472000122
+0,"me chamo natalice e irei te ajudar hoje. peço por gentileza, que permaneça aqui na conversa",pedindo para aguardar,0.6299550533294678
+1,"me chamo natalice e irei te ajudar hoje. peço por gentileza, que permaneça aqui na conversa",resolvendo o problema do cliente,0.20783743262290955
+2,"me chamo natalice e irei te ajudar hoje. peço por gentileza, que permaneça aqui na conversa",sendo negativo,0.1622074842453003
+0,"olá, maria!  sou thiago, estou verificando sua dúvida, peço a gentileza de permanecer na tela do nosso chat. muito obrigado por aguardar, prometo que não demorarei!",pedindo para aguardar,0.6799353957176208
+1,"olá, maria!  sou thiago, estou verificando sua dúvida, peço a gentileza de permanecer na tela do nosso chat. muito obrigado por aguardar, prometo que não demorarei!",sendo negativo,0.22366194427013397
+2,"olá, maria!  sou thiago, estou verificando sua dúvida, peço a gentileza de permanecer na tela do nosso chat. muito obrigado por aguardar, prometo que não demorarei!",resolvendo o problema do cliente,0.09640263020992279
+0,"você pode me contar melhor qual a sua dúvida, por gentileza",resolvendo o problema do cliente,0.4634782075881958
+1,"você pode me contar melhor qual a sua dúvida, por gentileza",pedindo para aguardar,0.3855958580970764
+2,"você pode me contar melhor qual a sua dúvida, por gentileza",sendo negativo,0.1509259045124054
+0,detalhe a sua dúvida. ,pedindo para aguardar,0.6432420611381531
+1,detalhe a sua dúvida. ,sendo negativo,0.19273796677589417
+2,detalhe a sua dúvida. ,resolvendo o problema do cliente,0.16401992738246918
